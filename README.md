@@ -33,9 +33,28 @@
 |Flutter之容器类Widget|1.填充类容器Padding<br> 2.布局限制类容器<br> 3.ConstrainedBox、SizeBox<br> 4.装饰类容器DecoratedBox<br> 5.变换类容器Transform<br> 6.组合容器Container<br> 7.导航类容器Scaffold、TabBar、AppBar等|[点击前往](https://juejin.im/post/5cc6fcedf265da034d2a2103)| RunTitan的系列 |
 |Flutter之基础Widget之TextField|主要介绍TextField|[点击前往](https://juejin.im/post/5cc2c880e51d453fdf6834b4)| RunTitan的系列 |
 |Flutter中App的主题和导航|MaterialApp|[点击前往](https://juejin.im/post/5ccee0325188253ffd574308)| RunTitan的系列 |
+|Flutter基础篇（1）-- 跨平台开发框架和工具集锦|1.为什么需要跨平台？ <br> 2.跨平台框架的发展历史<br> 3.其他相关热门开发技术？|[点击前往](https://www.jianshu.com/p/de459708d9ed)| AWeiLoveAndroid基础篇 |
+|Flutter基础篇（2）-- 老司机用一篇博客带你快速熟悉Dart语法|1.注释 <br> 2.关键字 <br> 3.变量和常量 <br> 4.特殊数据类型 <br> 5.运算符 <br> 6.控制流程语句 <br> 7.异常|[点击前往](https://www.jianshu.com/p/3d927a7bf020)| AWeiLoveAndroid基础篇 |
+|Flutter基础篇（3）-- Flutter基础全面详解|![](https://upload-images.jianshu.io/upload_images/6098829-a32b7159b373f09b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/468)|[点击前往](https://www.jianshu.com/p/2c9867e737a1)| AWeiLoveAndroid基础篇 |
+|Flutter基础篇（4）-- Flutter填坑全面总结|开发当中遇到的问题总结|[点击前往](https://www.jianshu.com/p/22675c1632dc)| AWeiLoveAndroid基础篇 |
+|Flutter基础篇（5）-- Flutter代码模板，解放双手，提高开发效率必备|1.使用说明 <br> 2.导入方式 <br> 3.支持的快捷键如下 <br> 4.部分使用示范图（以AS做示范） <br> 5.关于代码模板的自定义方式|[点击前往](https://www.jianshu.com/p/4184745d6983)| AWeiLoveAndroid基础篇 |
+|Flutter基础篇（6）-- 水平和垂直布局详解|![](https://upload-images.jianshu.io/upload_images/6098829-67f5c00618afdeb7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)|[点击前往](https://www.jianshu.com/p/7511cb18a05e)| AWeiLoveAndroid基础篇 |
+|Flutter基础篇（7）-- Flutter更新错误全面解决方案(图文+视频讲解)|1.使用Git下载flutter版本的3种方式 <br> 2.遇到的问题|[点击前往](https://www.jianshu.com/p/eadc13a650c1)| AWeiLoveAndroid基础篇 |
 | Flutter试用报告 | 1.Flutter 为何使用Dart开发语言 <br> 2.Flutter的UI系统 <br> 3.Flutter与Native的交融 | [点击前往](https://juejin.im/post/5c64cc2d518825626b76d7a5) | |
 |Flutter调试技巧总结——高效开发的秘密|我将自己遇到的错误类型归 语法和代码错误 、 运行时错误 和 逻辑错误 三大类，同时还从官方文档总结了 界面调试 的技巧，分享给大家。|[点击前往](https://juejin.im/post/5bb9b8a75188255c791b1984)| |
 
+
+<br>
+<br>
+<br>
+
+## <div align=center>-------------------------基础细节-------------------------</div>
+
+| 基础细节 | 备注信息 | 网址 |
+| --- | --- | --- |
+| flutter发送短信 打电话 打开链接 打开其他APP |  | [点击前往](https://blog.csdn.net/u011272795/article/details/82786027) |
+|Flutter基础Widget之按钮（RaisedButton、FlatButton、OutlineButton，IconButton）|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/85004313) |
+|Flutter - 自定义Dialog|| [点击前往](https://www.jianshu.com/p/4bbbb5aa855d) |
 
 <br>
 <br>
@@ -60,4 +79,16 @@
 |Flutter部分插件 后续持续更新～点|  | [点击前往](https://www.jianshu.com/p/c78ef5cf7f6a) |
 |Flutter 一些常用库|  | [点击前往](https://www.cnblogs.com/yangyxd/p/9232308.html) |
 |Flutter常用插件|  | [点击前往](https://www.jianshu.com/p/028b9d4c65e3) |
-| flutter的一个强大的特性就是其炫酷霸气的UI库，官方传送门 Material-UI库 |  | [点击前往](https://v0.material-ui.com/#/) |
+| Material-UI | flutter的一个强大的特性就是其炫酷霸气的UI库 | [点击前往](https://v0.material-ui.com/#/) |
+| flutter-auth0 | auth0 | [点击前往](https://github.com/devdennysegura/flutter-auth0) |
+| common_utils | 常用工具类库 | [点击前往](https://github.com/Sky24n/common_utils) |
+
+<br>
+<br>
+<br>
+
+## <div align=center>-------------------------易遇问题-------------------------</div>
+
+| 易遇问题 | 备注信息 | 网址 |
+| --- | --- | --- |
+|AndroidX compatibility| Android 代码通常使用 android.support库, 以确保向后兼容性。android.support库已弃用, 取而代之的是Androidx。Andredx 具有与具有一些附加功能的旧库的功能奇偶校验, 但不幸的是, 这两组库是不兼容的。 | [点击前往](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility) |
