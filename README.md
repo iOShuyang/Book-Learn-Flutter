@@ -49,6 +49,14 @@
 |Flutter基础篇（5）-- Flutter代码模板，解放双手，提高开发效率必备|1.使用说明 <br> 2.导入方式 <br> 3.支持的快捷键如下 <br> 4.部分使用示范图（以AS做示范） <br> 5.关于代码模板的自定义方式|[点击前往](https://www.jianshu.com/p/4184745d6983)| AWeiLoveAndroid基础篇 |
 |Flutter基础篇（6）-- 水平和垂直布局详解|![](https://upload-images.jianshu.io/upload_images/6098829-67f5c00618afdeb7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)|[点击前往](https://www.jianshu.com/p/7511cb18a05e)| AWeiLoveAndroid基础篇 |
 |Flutter基础篇（7）-- Flutter更新错误全面解决方案(图文+视频讲解)|1.使用Git下载flutter版本的3种方式 <br> 2.遇到的问题|[点击前往](https://www.jianshu.com/p/eadc13a650c1)| AWeiLoveAndroid基础篇 |
+|从0开始写一个基于Flutter的开源中国客户端（1）——Flutter简介及开发环境搭建|1.Flutter简介 <br> 2.Flutter开发环境搭建 |[点击前往](https://juejin.im/post/5b4fef17e51d4519475f29f6)| yuxiyu |
+|从0开始写一个基于Flutter的开源中国客户端（2）——Dart语法基础|1.Dart语言的特性 <br> 2.Dart语法简介 |[点击前往](https://juejin.im/post/5b5005866fb9a04fea589561)| yuxiyu |
+|从0开始写一个基于Flutter的开源中国客户端（3）——初识Flutter & 常用的Widgets|1.一个最简单的Flutter App <br> 2.Flutter项目结构 <br> 3.Flutter App是怎样的App <br> 4.Flutter常用Widgets |[点击前往](https://juejin.im/post/5b5192c4e51d4519115d0d8f)| yuxiyu |
+|从0开始写一个基于Flutter的开源中国客户端（4）——Flutter布局基础|1.包含单个子Widget的布局容器 <br> 2.包含多个子Widget的布局容器 |[点击前往](https://juejin.im/post/5b5599cef265da0f6e517b31)| yuxiyu |
+|从0开始写一个基于Flutter的开源中国客户端（5）——App整体布局框架搭建|App整体布局框架搭建 |[点击前往](https://juejin.im/post/5b57e339e51d4519700f686b)| yuxiyu |
+|从0开始写一个基于Flutter的开源中国客户端（6）——各个静态页面的实现|1.侧滑菜单页面的实现 <br>2.资讯列表页面的实现 <br>3.动弹列表页面的实现 <br>4.“发现”页面的实现 <br>5.“我的”页面的实现|[点击前往](https://juejin.im/post/5b5dc77fe51d451757327412)| yuxiyu |
+|从0开始写一个基于Flutter的开源中国客户端（7）——App网络请求和数据存储|1.Flutter中的网络请求 <br>2.Flutter中的数据存储 <br>3.从网络加载资讯列表并显示 <br>4.保存登录后的用户数据 |[点击前往](https://juejin.im/post/5b6111b3e51d45198905679a)| yuxiyu |
+|从0开始写一个基于Flutter的开源中国客户端（8）——插件的使用|1.搜索插件包 <br>2.使用flutter_webview_plugin插件 <br>3.使用event_bus插件 <br>4.使用image_picker插件 |[点击前往](https://juejin.im/post/5b62796b5188257bca291c2f)| yuxiyu |
 | Flutter试用报告 | 1.Flutter 为何使用Dart开发语言 <br> 2.Flutter的UI系统 <br> 3.Flutter与Native的交融 | [点击前往](https://juejin.im/post/5c64cc2d518825626b76d7a5) | |
 |Flutter调试技巧总结——高效开发的秘密|我将自己遇到的错误类型归 语法和代码错误 、 运行时错误 和 逻辑错误 三大类，同时还从官方文档总结了 界面调试 的技巧，分享给大家。|[点击前往](https://juejin.im/post/5bb9b8a75188255c791b1984)| |
 |Flutter 面试知识点集锦|1.Dart 部分 <br> 2.Flutter 部分|[点击前往](https://juejin.im/post/5cd9875ae51d453d022cb662)| 面试题 |
