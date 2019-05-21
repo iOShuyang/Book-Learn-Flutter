@@ -76,6 +76,11 @@
 | flutter发送短信 打电话 打开链接 打开其他APP |  | [点击前往](https://blog.csdn.net/u011272795/article/details/82786027) |
 |Flutter基础Widget之按钮（RaisedButton、FlatButton、OutlineButton，IconButton）|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/85004313) |
 |Flutter - 自定义Dialog|| [点击前往](https://www.jianshu.com/p/4bbbb5aa855d) |
+|flutter之使用自定义字体库|| [点击前往](https://www.jianshu.com/p/efa6b4316d0a) |
+|Flutter 控件之 文本和基本的容器|| [点击前往](http://blog.chengyunfeng.com/?p=1040) |
+|根据一个完整项目学习Flutter—1、使用主题共享颜色和字体样式(ThemeData)|| [点击前往](https://www.jianshu.com/p/7929e90a19d4) |
+|Flutter：Theme|| [点击前往](https://www.jianshu.com/p/059c5794b29c) |
+
 
 <br>
 <br>
