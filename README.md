@@ -64,6 +64,7 @@
 |使用Flutter来完成Uplabs上炫酷的交互|1.What is Flutter? <br> 2.What is Uplabs? <br> 3.How to implement ？ <br> 4.Join in Flutter-UI-Challenges|[点击前往](https://juejin.im/post/5cd7fa286fb9a0322b5c17bc)| |
 |Flutter 44集免费基础视频教程|1-Flutter基础视频教程 <br> 2-Flutter 20课小实例练习 |[点击前往](https://juejin.im/post/5c452bac6fb9a049af6d919a)| |
 |我看完掘金上的227篇文章，总结出一份 Flutter 入门教程|1.Flutter 简介 <br> 2.为什么原生应用开发者需要关注 Flutter <br> 3.Flutter 英文官网 <br> 4.Flutter 安装（Windows） <br> 5.Flutter 安装（Mac） <br> 6.Google 跨平台方案 Flutter 从入门到实战 <br> 7.Flutter 布局详解 <br> 8.Flutter 布局（一）- Container详解 <br> 9.Flutter 布局（二）- Padding、Align、Center详解 <br> 10.Flutter 布局（三）- FittedBox、AspectRatio、ConstrainedBox详解 <br> 11.Flutter Widgets: Image <br> 12.Flutter Widgets: Text <br> 13.浅尝 Flutter 中的 http 请求|[点击前往](https://juejin.im/post/5b3c8a4be51d4519935860d5)| |
+|flutter-study|1.Flutter 布局 <br> 2.Flutter 动画 <br> 3.现有项目中集成Flutter <br> 4.Flutter Plugin开发流程|[点击前往](https://github.com/yang7229693/flutter-study)| |
 
 <br>
 <br>
@@ -80,6 +81,9 @@
 |Flutter 控件之 文本和基本的容器|| [点击前往](http://blog.chengyunfeng.com/?p=1040) |
 |根据一个完整项目学习Flutter—1、使用主题共享颜色和字体样式(ThemeData)|| [点击前往](https://www.jianshu.com/p/7929e90a19d4) |
 |Flutter：Theme|| [点击前往](https://www.jianshu.com/p/059c5794b29c) |
+|Flutter进阶—路由和导航|| [点击前往](https://blog.csdn.net/hekaiyou/article/details/72853738) |
+|Flutter路由跳转及参数传递|| [点击前往](https://www.jianshu.com/p/866619e22941) |
+|Flutter实战：手把手教你写Flutter Plugin|| [点击前往](https://www.jianshu.com/p/c38dd2efa64a) |
 
 
 <br>
