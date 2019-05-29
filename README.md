@@ -84,6 +84,14 @@
 |Flutter进阶—路由和导航|| [点击前往](https://blog.csdn.net/hekaiyou/article/details/72853738) |
 |Flutter路由跳转及参数传递|| [点击前往](https://www.jianshu.com/p/866619e22941) |
 |Flutter实战：手把手教你写Flutter Plugin|| [点击前往](https://www.jianshu.com/p/c38dd2efa64a) |
+|深入理解Flutter多线程|| [点击前往](https://www.jianshu.com/p/54da18ed1a9e) |
+|Flutter文本输入框TextField属性（InputDecoration、textInputAction、inputFormatters等等）详解|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/88204031) |
+|Flutter中TextField使用|| [点击前往](https://juejin.im/post/5c20787fe51d4554055562fd) |
+|Exploring Google Maps in Flutter|【科学上网】| [点击前往](https://medium.com/flutter-community/exploring-google-maps-in-flutter-8a86d3783d24) |
+|Flutter - Google map widget plugin example.|【科学上网】| [点击前往](https://www.developerlibs.com/2019/04/flutter-google-map-widget-plugin-example.html) |
+|Flutter – Google Maps, Markers and Polygons|【科学上网】| [点击前往](http://tphangout.com/flutter-google-maps-markers-and-polygons/) |
+|Flutter - Google map plugin.|【科学上网】| [点击前往](https://www.developerlibs.com/2018/07/flutter-with-google-map.html) |
+|Flutter - How can draw route on google map between markers.|【科学上网】| [点击前往](https://www.developerlibs.com/2018/08/flutter-how-can-draw-route-on-google.html) |
 
 
 <br>
@@ -130,3 +138,5 @@
 | 易遇问题 | 备注信息 | 网址 |
 | --- | --- | --- |
 |AndroidX compatibility| Android 代码通常使用 android.support库, 以确保向后兼容性。android.support库已弃用, 取而代之的是Androidx。Andredx 具有与具有一些附加功能的旧库的功能奇偶校验, 但不幸的是, 这两组库是不兼容的。 | [点击前往](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility) |
+|setState() called after dispose()|| [点击前往](https://www.jianshu.com/p/9e3bd870d292) |
+|配置方法数超过 64K 的应用|trouble writing output:Too many field references: 131000;max is 65536.You may try using --multi-dex option.| [点击前往](https://developer.android.com/studio/build/multidex) |
