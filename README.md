@@ -65,6 +65,7 @@
 |Flutter 44集免费基础视频教程|1-Flutter基础视频教程 <br> 2-Flutter 20课小实例练习 |[点击前往](https://juejin.im/post/5c452bac6fb9a049af6d919a)| |
 |我看完掘金上的227篇文章，总结出一份 Flutter 入门教程|1.Flutter 简介 <br> 2.为什么原生应用开发者需要关注 Flutter <br> 3.Flutter 英文官网 <br> 4.Flutter 安装（Windows） <br> 5.Flutter 安装（Mac） <br> 6.Google 跨平台方案 Flutter 从入门到实战 <br> 7.Flutter 布局详解 <br> 8.Flutter 布局（一）- Container详解 <br> 9.Flutter 布局（二）- Padding、Align、Center详解 <br> 10.Flutter 布局（三）- FittedBox、AspectRatio、ConstrainedBox详解 <br> 11.Flutter Widgets: Image <br> 12.Flutter Widgets: Text <br> 13.浅尝 Flutter 中的 http 请求|[点击前往](https://juejin.im/post/5b3c8a4be51d4519935860d5)| |
 |flutter-study|1.Flutter 布局 <br> 2.Flutter 动画 <br> 3.现有项目中集成Flutter <br> 4.Flutter Plugin开发流程|[点击前往](https://github.com/yang7229693/flutter-study)| |
+|还在写iOS？是时候学一下Flutter了|1.Widget与UIView <br> 2.如何对Widget布局 <br> 3.如何从布局中添加或者删除一个组件 <br> 4.如何设置Widget 动画<br> 5.如何绘制到屏幕上<br> 6.widget的透明度在<br> 7.如何实现自定义widget<br> 8.导航|[点击前往](https://juejin.im/post/5ce20dec5188250f9d5d505a#heading-9)| |
 
 <br>
 <br>
@@ -74,7 +75,7 @@
 
 | 基础细节 | 备注信息 | 网址 |
 | --- | --- | --- |
-| flutter发送短信 打电话 打开链接 打开其他APP |  | [点击前往](https://blog.csdn.net/u011272795/article/details/82786027) |
+| flutter发送短信 打电话 打开链接 打开其他APP | ---------------------------------------------------------| [点击前往](https://blog.csdn.net/u011272795/article/details/82786027) |
 |Flutter基础Widget之按钮（RaisedButton、FlatButton、OutlineButton，IconButton）|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/85004313) |
 |Flutter - 自定义Dialog|| [点击前往](https://www.jianshu.com/p/4bbbb5aa855d) |
 |flutter之使用自定义字体库|| [点击前往](https://www.jianshu.com/p/efa6b4316d0a) |
@@ -83,6 +84,7 @@
 |Flutter：Theme|| [点击前往](https://www.jianshu.com/p/059c5794b29c) |
 |Flutter进阶—路由和导航|| [点击前往](https://blog.csdn.net/hekaiyou/article/details/72853738) |
 |Flutter路由跳转及参数传递|| [点击前往](https://www.jianshu.com/p/866619e22941) |
+|Flutter学习之路由传参|| [点击前往](https://blog.csdn.net/qq_18948359/article/details/82932748) |
 |Flutter实战：手把手教你写Flutter Plugin|| [点击前往](https://www.jianshu.com/p/c38dd2efa64a) |
 |深入理解Flutter多线程|| [点击前往](https://www.jianshu.com/p/54da18ed1a9e) |
 |Flutter文本输入框TextField属性（InputDecoration、textInputAction、inputFormatters等等）详解|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/88204031) |
@@ -92,6 +94,18 @@
 |Flutter – Google Maps, Markers and Polygons|【科学上网】| [点击前往](http://tphangout.com/flutter-google-maps-markers-and-polygons/) |
 |Flutter - Google map plugin.|【科学上网】| [点击前往](https://www.developerlibs.com/2018/07/flutter-with-google-map.html) |
 |Flutter - How can draw route on google map between markers.|【科学上网】| [点击前往](https://www.developerlibs.com/2018/08/flutter-how-can-draw-route-on-google.html) |
+|Building Places & Location Search with Map View Using Flutter 1.0|【科学上网】| [点击前往](https://medium.com/flutter-community/building-places-location-search-with-map-view-using-flutter-1-0-alfian-losari-66cacb3bcc24) |
+|Automatic Json Serializing in Flutter Using Json Annotation|【科学上网】| [点击前往](https://medium.com/flutter-community/generate-the-code-to-parse-your-json-in-flutter-c68aa89a81d9) |
+|flutter json解析相关 for json_serializable| | [点击前往](https://www.jianshu.com/p/4210536124b1) |
+|Flutter   深入浅出Key| | [点击前往](https://www.jianshu.com/p/510c72cecf26) |
+|Flutter上拉抽屉实现| | [点击前往](https://www.jianshu.com/p/c0dcce6297c9) |
+|Flutter 控件-Drawer使用| | [点击前往](https://www.jianshu.com/p/70e0324c0204) |
+|Flutter 手动控制drawer（抽屉）打开关闭| | [点击前往](https://www.jianshu.com/p/1b30f3bfc1e6) |
+|Flutter 入门之 ListTile 使用指南| | [点击前往](https://juejin.im/post/5c88d6c4f265da2de970bc24) |
+|Flutter Checkbox（复选框）| | [点击前往](https://www.jianshu.com/p/d5b2bbc7f89d) |
+|Flutter Checkbox CheckboxListTile| | [点击前往](https://blog.csdn.net/mengks1987/article/details/85107393) |
+|Flutter 入门指北(Part 10)之手势处理和动画| | [点击前往](https://juejin.im/post/5cb340af6fb9a068b748ab6e) |
+|Flutter：修改TextField的高度，以及无边框圆角| | [点击前往](https://www.cnblogs.com/ChengYing-Freedom/p/10304959.html) |
 
 
 <br>
@@ -111,7 +125,7 @@
 |Flutter之撸一个漂亮的登录界面的总结|| [点击前往](https://www.jianshu.com/p/0c2ba709b95e) |
 |Flutter交互实战－即刻App探索页下拉＆拖拽效果|| [点击前往](https://juejin.im/post/5c7c72de5188253ec91e3093) |
 |请收下我的 20 个 Flutter 开源项目| 👍👍👍👍👍 | [点击前往](https://www.jianshu.com/p/72e359bfe1e0) |
-
+|Flutter 实战：撸半个知乎日报~ThemeListPage|| [点击前往](https://www.jianshu.com/p/265fd0fa6762) |
 <br>
 <br>
 <br>
@@ -128,7 +142,7 @@
 | Material-UI | flutter的一个强大的特性就是其炫酷霸气的UI库 | [点击前往](https://v0.material-ui.com/#/) |
 | flutter-auth0 | auth0 | [点击前往](https://github.com/devdennysegura/flutter-auth0) |
 | common_utils | 常用工具类库 | [点击前往](https://github.com/Sky24n/common_utils) |
-
+| FlutterPlayground | Playground app for Flutter | [点击前往](https://github.com/ibhavikmakwana/FlutterPlayground) |
 <br>
 <br>
 <br>
@@ -140,3 +154,5 @@
 |AndroidX compatibility| Android 代码通常使用 android.support库, 以确保向后兼容性。android.support库已弃用, 取而代之的是Androidx。Andredx 具有与具有一些附加功能的旧库的功能奇偶校验, 但不幸的是, 这两组库是不兼容的。 | [点击前往](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility) |
 |setState() called after dispose()|| [点击前往](https://www.jianshu.com/p/9e3bd870d292) |
 |配置方法数超过 64K 的应用|trouble writing output:Too many field references: 131000;max is 65536.You may try using --multi-dex option.| [点击前往](https://developer.android.com/studio/build/multidex) |
+|Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
+|Flutter页面跳转和传值传参，接收页面返回数据、以及解决返回（pop）页面时黑屏的问题| | [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/89090742) |
