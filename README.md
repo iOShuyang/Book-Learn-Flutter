@@ -97,6 +97,7 @@
 |Building Places & Location Search with Map View Using Flutter 1.0|【科学上网】| [点击前往](https://medium.com/flutter-community/building-places-location-search-with-map-view-using-flutter-1-0-alfian-losari-66cacb3bcc24) |
 |Automatic Json Serializing in Flutter Using Json Annotation|【科学上网】| [点击前往](https://medium.com/flutter-community/generate-the-code-to-parse-your-json-in-flutter-c68aa89a81d9) |
 |flutter json解析相关 for json_serializable| | [点击前往](https://www.jianshu.com/p/4210536124b1) |
+|Flutter dio结合json_serializable请求数据并解析Demo| | [点击前往](https://www.jianshu.com/p/e010041f0ec0/) |
 |Flutter   深入浅出Key| | [点击前往](https://www.jianshu.com/p/510c72cecf26) |
 |Flutter上拉抽屉实现| | [点击前往](https://www.jianshu.com/p/c0dcce6297c9) |
 |Flutter 控件-Drawer使用| | [点击前往](https://www.jianshu.com/p/70e0324c0204) |
@@ -106,6 +107,12 @@
 |Flutter Checkbox CheckboxListTile| | [点击前往](https://blog.csdn.net/mengks1987/article/details/85107393) |
 |Flutter 入门指北(Part 10)之手势处理和动画| | [点击前往](https://juejin.im/post/5cb340af6fb9a068b748ab6e) |
 |Flutter：修改TextField的高度，以及无边框圆角| | [点击前往](https://www.cnblogs.com/ChengYing-Freedom/p/10304959.html) |
+|flutter 生命周期| | [点击前往](https://blog.csdn.net/u011272795/article/details/82695920) |
+|Flutter Decoration背景设定（边框、圆角、阴影、形状、渐变、背景图像等）| | [点击前往](https://blog.csdn.net/chenlove1/article/details/83627831) |
+|Flutter自定义渐变色AppBar| | [点击前往](https://www.jianshu.com/p/09c280d76562) |
+|Flutter 实战进阶|【科学上网】| [点击前往](https://www.ldsun.com/flutter-practice/) |
+|Flutter 圆形/圆角头像|  | [点击前往](https://www.jianshu.com/p/b4085a1a5129) |
+|Flutter相关函数记录|  | [点击前往](https://blog.csdn.net/a1540077373/article/details/80742962) |
 
 
 <br>
@@ -122,10 +129,12 @@
 |基于Google Flutter的WanAndroid客户端|| [点击前往](https://github.com/Sky24n/flutter_wanandroid) |
 |Flutter实战之实现一个简单的新闻阅读器|| [点击前往](https://juejin.im/post/5aae5bb4518825558c4736b5) |
 |Flutter仿网易云音乐：播放界面|| [点击前往](https://juejin.im/post/5c344d1ee51d4557db5a0140) |
+|还不会用Flutter？仿网易云音乐项目（已开源）|| [点击前往](https://www.jianshu.com/p/f2ff3f5d50bc) |
 |Flutter之撸一个漂亮的登录界面的总结|| [点击前往](https://www.jianshu.com/p/0c2ba709b95e) |
 |Flutter交互实战－即刻App探索页下拉＆拖拽效果|| [点击前往](https://juejin.im/post/5c7c72de5188253ec91e3093) |
 |请收下我的 20 个 Flutter 开源项目| 👍👍👍👍👍 | [点击前往](https://www.jianshu.com/p/72e359bfe1e0) |
 |Flutter 实战：撸半个知乎日报~ThemeListPage|| [点击前往](https://www.jianshu.com/p/265fd0fa6762) |
+|Flutter-评分控件(Rating Bar)的制作|| [点击前往](https://www.jianshu.com/p/6d23602695f5) |
 <br>
 <br>
 <br>
@@ -156,3 +165,5 @@
 |配置方法数超过 64K 的应用|trouble writing output:Too many field references: 131000;max is 65536.You may try using --multi-dex option.| [点击前往](https://developer.android.com/studio/build/multidex) |
 |Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
 |Flutter页面跳转和传值传参，接收页面返回数据、以及解决返回（pop）页面时黑屏的问题| | [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/89090742) |
+|Flutter打包IPA报错Could not find an option named "track-widget-creation".| | [点击前往](https://blog.csdn.net/weixin_34306446/article/details/87538720) |
+|Flutter杂症（ flutter packages pub run build_runner build ）| | [点击前往](https://juejin.im/post/5c3d9a38e51d451d200e1fa9) |
