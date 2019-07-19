@@ -4,13 +4,24 @@
 #####  <div align=center> 小编会不定时更新哦，麻烦给一个赞哈。</div>
 #####  <div align=center> 编辑积累学习都不容易，希望大家相互鼓励。</div>
 
+<br>
+<br>
+<br>
+
+<span id="back"></span>
+
+### <div align=center>[1.基础知识](#1) 
+### <div align=center>[2.基础细节](#2)
+### <div align=center>[3.项目实战](#3) 
+### <div align=center>[3.三方插件](#4) 
+### <div align=center>[4.易遇问题](#5)
 
 <br>
 <br>
 <br>
 
-
-## <div align=center>-------------------------基础知识 -------------------------</div>
+<span id="1"></span>
+## <div align=center>-------------------------[基础知识](#back)-------------------------</div>
 | 基础知识 | 学习内容 | 网址 | 系列 |
 | --- | --- | --- | --- |
 | Flutter中文网 | 官方学习网址，入门学习 | [点击前往](https://flutterchina.club/get-started/codelab/) | |
@@ -66,12 +77,14 @@
 |我看完掘金上的227篇文章，总结出一份 Flutter 入门教程|1.Flutter 简介 <br> 2.为什么原生应用开发者需要关注 Flutter <br> 3.Flutter 英文官网 <br> 4.Flutter 安装（Windows） <br> 5.Flutter 安装（Mac） <br> 6.Google 跨平台方案 Flutter 从入门到实战 <br> 7.Flutter 布局详解 <br> 8.Flutter 布局（一）- Container详解 <br> 9.Flutter 布局（二）- Padding、Align、Center详解 <br> 10.Flutter 布局（三）- FittedBox、AspectRatio、ConstrainedBox详解 <br> 11.Flutter Widgets: Image <br> 12.Flutter Widgets: Text <br> 13.浅尝 Flutter 中的 http 请求|[点击前往](https://juejin.im/post/5b3c8a4be51d4519935860d5)| |
 |flutter-study|1.Flutter 布局 <br> 2.Flutter 动画 <br> 3.现有项目中集成Flutter <br> 4.Flutter Plugin开发流程|[点击前往](https://github.com/yang7229693/flutter-study)| |
 |还在写iOS？是时候学一下Flutter了|1.Widget与UIView <br> 2.如何对Widget布局 <br> 3.如何从布局中添加或者删除一个组件 <br> 4.如何设置Widget 动画<br> 5.如何绘制到屏幕上<br> 6.widget的透明度在<br> 7.如何实现自定义widget<br> 8.导航|[点击前往](https://juejin.im/post/5ce20dec5188250f9d5d505a#heading-9)| |
+|Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349#heading-8)| |
 
 <br>
 <br>
 <br>
 
-## <div align=center>-------------------------基础细节-------------------------</div>
+<span id="2"></span>
+## <div align=center>-------------------------[基础细节](#back)-------------------------</div>
 
 | 基础细节 | 备注信息 | 网址 |
 | --- | --- | --- |
@@ -88,7 +101,9 @@
 |Flutter实战：手把手教你写Flutter Plugin|| [点击前往](https://www.jianshu.com/p/c38dd2efa64a) |
 |深入理解Flutter多线程|| [点击前往](https://www.jianshu.com/p/54da18ed1a9e) |
 |Flutter文本输入框TextField属性（InputDecoration、textInputAction、inputFormatters等等）详解|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/88204031) |
+|flutter控件之---------TextField|| [点击前往](https://www.jianshu.com/p/5d44d26d3556) |
 |Flutter中TextField使用|| [点击前往](https://juejin.im/post/5c20787fe51d4554055562fd) |
+|Flutter花式玩转TextField，写一个验证码输入框超简单！|| [点击前往](https://www.jianshu.com/p/70faaf9722b1) |
 |Exploring Google Maps in Flutter|【科学上网】| [点击前往](https://medium.com/flutter-community/exploring-google-maps-in-flutter-8a86d3783d24) |
 |Flutter - Google map widget plugin example.|【科学上网】| [点击前往](https://www.developerlibs.com/2019/04/flutter-google-map-widget-plugin-example.html) |
 |Flutter – Google Maps, Markers and Polygons|【科学上网】| [点击前往](http://tphangout.com/flutter-google-maps-markers-and-polygons/) |
@@ -109,6 +124,7 @@
 |Flutter：修改TextField的高度，以及无边框圆角| | [点击前往](https://www.cnblogs.com/ChengYing-Freedom/p/10304959.html) |
 |flutter 生命周期| | [点击前往](https://blog.csdn.net/u011272795/article/details/82695920) |
 |Flutter Decoration背景设定（边框、圆角、阴影、形状、渐变、背景图像等）| | [点击前往](https://blog.csdn.net/chenlove1/article/details/83627831) |
+|Flutter 图片、圆形头像、圆角图片....各种形状| | [点击前往](https://blog.csdn.net/weixin_44862319/article/details/88993060) |
 |Flutter自定义渐变色AppBar| | [点击前往](https://www.jianshu.com/p/09c280d76562) |
 |Flutter 实战进阶|【科学上网】| [点击前往](https://www.ldsun.com/flutter-practice/) |
 |Flutter 圆形/圆角头像|  | [点击前往](https://www.jianshu.com/p/b4085a1a5129) |
@@ -119,7 +135,9 @@
 <br>
 <br>
 
-## <div align=center>-------------------------项目实战-------------------------</div>
+
+<span id="3"></span>
+## <div align=center>-------------------------[项目实战](#back)-------------------------</div>
 
 | 项目实战 | 备注信息 | 网址 |
 | --- | --- | --- |
@@ -135,11 +153,14 @@
 |请收下我的 20 个 Flutter 开源项目| 👍👍👍👍👍 | [点击前往](https://www.jianshu.com/p/72e359bfe1e0) |
 |Flutter 实战：撸半个知乎日报~ThemeListPage|| [点击前往](https://www.jianshu.com/p/265fd0fa6762) |
 |Flutter-评分控件(Rating Bar)的制作|| [点击前往](https://www.jianshu.com/p/6d23602695f5) |
+|日更的FlutterDemo合集，今天你fu了吗|👍👍👍👍👍| [点击前往](https://github.com/OpenFlutter/Flutter-Notebook) |
 <br>
 <br>
 <br>
 
-## <div align=center>-------------------------三方库-------------------------</div>
+
+<span id="4"></span>
+## <div align=center>-------------------------[三方插件](#back)-------------------------</div>
 
 | 三方库 | 备注信息 | 网址 |
 | --- | --- | --- |
@@ -156,7 +177,9 @@
 <br>
 <br>
 
-## <div align=center>-------------------------易遇问题-------------------------</div>
+
+<span id="5"></span>
+## <div align=center>-------------------------[易遇问题](#back)-------------------------</div>
 
 | 易遇问题 | 备注信息 | 网址 |
 | --- | --- | --- |
@@ -166,4 +189,8 @@
 |Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
 |Flutter页面跳转和传值传参，接收页面返回数据、以及解决返回（pop）页面时黑屏的问题| | [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/89090742) |
 |Flutter打包IPA报错Could not find an option named "track-widget-creation".| | [点击前往](https://blog.csdn.net/weixin_34306446/article/details/87538720) |
+|flutter doctor returns [Unhandled exception: Exception: idevice_id returned an error] | | [点击前往](https://github.com/flutter/flutter/issues/23455) |
 |Flutter杂症（ flutter packages pub run build_runner build ）| | [点击前往](https://juejin.im/post/5c3d9a38e51d451d200e1fa9) |
+|Flutter开发中的一些Tips| | [点击前往](https://juejin.im/post/5d00fbfd51882570ec017660) |
+|[Flutter]Row和Column中防止overflow错误| | [点击前往](https://www.jianshu.com/p/17bacb6ffefc) |
+|Flutter TextField 不能直接放到 Row 里面| | [点击前往](https://www.jianshu.com/p/9555d3410a17) |
