@@ -129,7 +129,8 @@
 |Flutter 实战进阶|【科学上网】| [点击前往](https://www.ldsun.com/flutter-practice/) |
 |Flutter 圆形/圆角头像|  | [点击前往](https://www.jianshu.com/p/b4085a1a5129) |
 |Flutter相关函数记录|  | [点击前往](https://blog.csdn.net/a1540077373/article/details/80742962) |
-
+|Flutter倒计时定时器（一）|  | [点击前往](https://www.jianshu.com/p/9f1511d74da5) |
+|Flutter知识点: Animation|  | [点击前往](https://www.jianshu.com/p/32fee75d9e70) |
 
 <br>
 <br>
@@ -154,6 +155,9 @@
 |Flutter 实战：撸半个知乎日报~ThemeListPage|| [点击前往](https://www.jianshu.com/p/265fd0fa6762) |
 |Flutter-评分控件(Rating Bar)的制作|| [点击前往](https://www.jianshu.com/p/6d23602695f5) |
 |日更的FlutterDemo合集，今天你fu了吗|👍👍👍👍👍| [点击前往](https://github.com/OpenFlutter/Flutter-Notebook) |
+|GSYGithubAppFlutter|👍👍👍👍👍|[点击前往](https://github.com/CarGuo/GSYGithubAppFlutter)|
+|Flutter 实战：正真意义上的无限循环轮播器|| [点击前往](https://blog.csdn.net/weixin_34117522/article/details/91421506) |
+|使用Flutter开发一款电影APP|| [点击前往](https://juejin.im/post/5d31ea42f265da1bbe5e3ea7) |
 <br>
 <br>
 <br>
@@ -187,9 +191,13 @@
 |setState() called after dispose()|| [点击前往](https://www.jianshu.com/p/9e3bd870d292) |
 |配置方法数超过 64K 的应用|trouble writing output:Too many field references: 131000;max is 65536.You may try using --multi-dex option.| [点击前往](https://developer.android.com/studio/build/multidex) |
 |Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
+|update Homebrew 太慢，更换Homebrew的更新源| [点击前往](https://www.jianshu.com/p/b26c7bc14440) |
+|Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
 |Flutter页面跳转和传值传参，接收页面返回数据、以及解决返回（pop）页面时黑屏的问题| | [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/89090742) |
 |Flutter打包IPA报错Could not find an option named "track-widget-creation".| | [点击前往](https://blog.csdn.net/weixin_34306446/article/details/87538720) |
 |flutter doctor returns [Unhandled exception: Exception: idevice_id returned an error] | | [点击前往](https://github.com/flutter/flutter/issues/23455) |
+|Lost connection to device on save | | [点击前往](https://github.com/flutter/flutter/issues/26945) |
+|Recent libusbmuxd version causes `flutter run` to lose connection to physical iOS device after a few seconds] | | [点击前往](https://github.com/flutter/flutter/issues/35102) |
 |Flutter杂症（ flutter packages pub run build_runner build ）| | [点击前往](https://juejin.im/post/5c3d9a38e51d451d200e1fa9) |
 |Flutter开发中的一些Tips| | [点击前往](https://juejin.im/post/5d00fbfd51882570ec017660) |
 |[Flutter]Row和Column中防止overflow错误| | [点击前往](https://www.jianshu.com/p/17bacb6ffefc) |
