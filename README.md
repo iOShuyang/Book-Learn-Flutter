@@ -134,6 +134,10 @@
 |Flutter网格型布局 - GridView篇|  | [点击前往](https://segmentfault.com/a/1190000019756746) |
 |Flutter 基础组件之 Stack|  | [点击前往](https://blog.csdn.net/zgcqflqinhao/article/details/85328665) |
 |Flutter Widget - Positioned;|  | [点击前往](https://juejin.im/post/5c7dd8af6fb9a049b41d357a) |
+|Flutter更新showDialog中的内容|  | [点击前往](https://juejin.im/entry/5cd264ff6fb9a032332b4510) |
+|Flutter 超实用简单菜单弹出框 PopupMenuButton|  | [点击前往](https://juejin.im/post/5d48b3efe51d453b7779d4e4) |
+|Flutter DropdownButton简单使用及魔改源码|  | [点击前往](https://cloud.tencent.com/developer/article/1472188) |
+|Flutter TabBar、TabBarView的使用|  | [点击前往](https://blog.csdn.net/yechaoa/article/details/90482127#TabBarTabBarView_60) |
 
 <br>
 <br>
@@ -161,6 +165,9 @@
 |GSYGithubAppFlutter|👍👍👍👍👍|[点击前往](https://github.com/CarGuo/GSYGithubAppFlutter)|
 |Flutter 实战：正真意义上的无限循环轮播器|| [点击前往](https://blog.csdn.net/weixin_34117522/article/details/91421506) |
 |使用Flutter开发一款电影APP|| [点击前往](https://juejin.im/post/5d31ea42f265da1bbe5e3ea7) |
+|Flutter开发-仿携程项目|| [点击前往](https://www.jianshu.com/p/89b3c6dde061) |
+
+
 <br>
 <br>
 <br>
