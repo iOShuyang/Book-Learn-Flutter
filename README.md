@@ -138,6 +138,11 @@
 |Flutter 超实用简单菜单弹出框 PopupMenuButton|  | [点击前往](https://juejin.im/post/5d48b3efe51d453b7779d4e4) |
 |Flutter DropdownButton简单使用及魔改源码|  | [点击前往](https://cloud.tencent.com/developer/article/1472188) |
 |Flutter TabBar、TabBarView的使用|  | [点击前往](https://blog.csdn.net/yechaoa/article/details/90482127#TabBarTabBarView_60) |
+|Flutter DateTime日期转换|  | [点击前往](https://blog.csdn.net/ruoshui_t/article/details/93072017) |
+|Flutter知识点: Notification| 解决方案1： 参考Flutter知识点: InheritedWidget<br>解决方案2：Notification，子节点状态变更，发送通知上报。 | [点击前往](https://www.jianshu.com/p/d9e7e7ad4daa) |
+
+
+
 
 <br>
 <br>
@@ -201,7 +206,7 @@
 |setState() called after dispose()|| [点击前往](https://www.jianshu.com/p/9e3bd870d292) |
 |配置方法数超过 64K 的应用|trouble writing output:Too many field references: 131000;max is 65536.You may try using --multi-dex option.| [点击前往](https://developer.android.com/studio/build/multidex) |
 |Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
-|update Homebrew 太慢，更换Homebrew的更新源| [点击前往](https://www.jianshu.com/p/b26c7bc14440) |
+|update Homebrew 太慢，更换Homebrew的更新源| |[点击前往](https://www.jianshu.com/p/b26c7bc14440) |
 |Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
 |Flutter页面跳转和传值传参，接收页面返回数据、以及解决返回（pop）页面时黑屏的问题| | [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/89090742) |
 |Flutter打包IPA报错Could not find an option named "track-widget-creation".| | [点击前往](https://blog.csdn.net/weixin_34306446/article/details/87538720) |
@@ -212,3 +217,6 @@
 |Flutter开发中的一些Tips| | [点击前往](https://juejin.im/post/5d00fbfd51882570ec017660) |
 |[Flutter]Row和Column中防止overflow错误| | [点击前往](https://www.jianshu.com/p/17bacb6ffefc) |
 |Flutter TextField 不能直接放到 Row 里面| | [点击前往](https://www.jianshu.com/p/9555d3410a17) |
+|flutter_stripe_payment （Fails to start on android） ||[点击前往](https://github.com/jonasbark/flutter_stripe_payment/issues/3) |
+|Flutter中setState导致的内存泄漏——setState() called after dispose() ||[点击前往](https://blog.csdn.net/qq_26287435/article/details/89674247) |
+|flutter 打android-arm64平台 ||[点击前往](https://blog.csdn.net/dalong3976/article/details/94736506) |
