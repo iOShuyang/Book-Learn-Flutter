@@ -122,6 +122,7 @@
 |Flutter Checkbox CheckboxListTile| | [点击前往](https://blog.csdn.net/mengks1987/article/details/85107393) |
 |Flutter 入门指北(Part 10)之手势处理和动画| | [点击前往](https://juejin.im/post/5cb340af6fb9a068b748ab6e) |
 |Flutter：修改TextField的高度，以及无边框圆角| | [点击前往](https://www.cnblogs.com/ChengYing-Freedom/p/10304959.html) |
+|Flutter控制某个TextField获取焦点及失去焦点| | [点击前往](https://www.cnblogs.com/gxsyj/p/11156323.html) |
 |flutter 生命周期| | [点击前往](https://blog.csdn.net/u011272795/article/details/82695920) |
 |Flutter Decoration背景设定（边框、圆角、阴影、形状、渐变、背景图像等）| | [点击前往](https://blog.csdn.net/chenlove1/article/details/83627831) |
 |Flutter 图片、圆形头像、圆角图片....各种形状| | [点击前往](https://blog.csdn.net/weixin_44862319/article/details/88993060) |
@@ -140,7 +141,7 @@
 |Flutter TabBar、TabBarView的使用|  | [点击前往](https://blog.csdn.net/yechaoa/article/details/90482127#TabBarTabBarView_60) |
 |Flutter DateTime日期转换|  | [点击前往](https://blog.csdn.net/ruoshui_t/article/details/93072017) |
 |Flutter知识点: Notification| 解决方案1： 参考Flutter知识点: InheritedWidget<br>解决方案2：Notification，子节点状态变更，发送通知上报。 | [点击前往](https://www.jianshu.com/p/d9e7e7ad4daa) |
-
+|容器类Widget-约束盒子ConstrainedBox和SizedBox容器|  | [点击前往](https://www.jianshu.com/p/ba46bcfdf827) |
 
 
 
@@ -220,3 +221,4 @@
 |flutter_stripe_payment （Fails to start on android） ||[点击前往](https://github.com/jonasbark/flutter_stripe_payment/issues/3) |
 |Flutter中setState导致的内存泄漏——setState() called after dispose() ||[点击前往](https://blog.csdn.net/qq_26287435/article/details/89674247) |
 |flutter 打android-arm64平台 ||[点击前往](https://blog.csdn.net/dalong3976/article/details/94736506) |
+|flutter调出键盘报错溢出异常：bottom overflowed by 104 PIXELS ||[点击前往](https://blog.csdn.net/wo541075754/article/details/86145870) |
