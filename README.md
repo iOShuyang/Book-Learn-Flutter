@@ -78,6 +78,7 @@
 |flutter-study|1.Flutter 布局 <br> 2.Flutter 动画 <br> 3.现有项目中集成Flutter <br> 4.Flutter Plugin开发流程|[点击前往](https://github.com/yang7229693/flutter-study)| |
 |还在写iOS？是时候学一下Flutter了|1.Widget与UIView <br> 2.如何对Widget布局 <br> 3.如何从布局中添加或者删除一个组件 <br> 4.如何设置Widget 动画<br> 5.如何绘制到屏幕上<br> 6.widget的透明度在<br> 7.如何实现自定义widget<br> 8.导航|[点击前往](https://juejin.im/post/5ce20dec5188250f9d5d505a#heading-9)| |
 |Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349#heading-8)| |
+|用Flutter构建漂亮的UI界面 - 基础组件篇|1.前言 <br> 2.基础组件 <br> 3.布局实战 <br> 4.总结<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349#heading-8)| |
 
 <br>
 <br>
@@ -142,8 +143,9 @@
 |Flutter DateTime日期转换|  | [点击前往](https://blog.csdn.net/ruoshui_t/article/details/93072017) |
 |Flutter知识点: Notification| 解决方案1： 参考Flutter知识点: InheritedWidget<br>解决方案2：Notification，子节点状态变更，发送通知上报。 | [点击前往](https://www.jianshu.com/p/d9e7e7ad4daa) |
 |容器类Widget-约束盒子ConstrainedBox和SizedBox容器|  | [点击前往](https://www.jianshu.com/p/ba46bcfdf827) |
-
-
+|在Flutter中创建有意思的滚动效果 - Sliver系列|  | [点击前往](https://segmentfault.com/a/1190000019902201) |
+|Flutter：Slivers大家族，让滑动视图的组合变得很简单！|  | [点击前往](https://juejin.im/post/5bceb534e51d457aa4596f9a) |
+|【译】Flutter进阶：在应用中实现 Hero(飞行) 动画|  | [点击前往](https://juejin.im/post/5c4dae0de51d456e41391586) |
 
 <br>
 <br>
@@ -189,10 +191,50 @@
 |Flutter部分插件 后续持续更新～点|  | [点击前往](https://www.jianshu.com/p/c78ef5cf7f6a) |
 |Flutter 一些常用库|  | [点击前往](https://www.cnblogs.com/yangyxd/p/9232308.html) |
 |Flutter常用插件|  | [点击前往](https://www.jianshu.com/p/028b9d4c65e3) |
-| Material-UI | flutter的一个强大的特性就是其炫酷霸气的UI库 | [点击前往](https://v0.material-ui.com/#/) |
-| flutter-auth0 | auth0 | [点击前往](https://github.com/devdennysegura/flutter-auth0) |
-| common_utils | 常用工具类库 | [点击前往](https://github.com/Sky24n/common_utils) |
-| FlutterPlayground | Playground app for Flutter | [点击前往](https://github.com/ibhavikmakwana/FlutterPlayground) |
+| hive（hive_generator） | 数据存储 | [点击前往](https://pub.dev/packages/hive) |
+| json_annotation（json_serializable） | 数据解析 | [点击前往](https://pub.dev/packages/json_annotation) |
+| dio | 网络库 | [点击前往](https://pub.dev/packages/dio) |
+| dio_flutter_transformer | compute 解析 | [点击前往](https://pub.dev/packages/dio_flutter_transformer) |
+| common_utils | Dart 常用工具类库 | [点击前往](https://pub.dev/packages/common_utils) |
+| flustars | 常用工具类库 | [点击前往](https://pub.dev/packages/flustars) |
+| provider | 状态管理 | [点击前往](https://pub.dev/packages/provider) |
+| retrofit（retrofit_generator） | dio 适配器 | [点击前往](https://pub.dev/packages/retrofit) |
+| logger | 日志 | [点击前往](https://pub.dev/packages/logger) |
+| webview_flutter | webiew | [点击前往](https://pub.dev/packages/webview_flutter) |
+| flutter_html | 简单html显示 | [点击前往](https://pub.dev/packages/flutter_html) |
+| jaguar_flutter_asset | localWebService | [点击前往](https://pub.dev/packages/jaguar_flutter_asset) |
+| intl（intl_translation） | 国际化 | [点击前往](https://pub.dev/packages/intl) |
+| jpush_flutter | 极光推送 | [点击前往](https://pub.dev/packages/jpush_flutter) |
+| decimal | 金额 | [点击前往](https://pub.dev/packages/decimal) |
+| package_info | 版本信息 | [点击前往](https://pub.dev/packages/package_info) |
+| fluro | 路由框架 | [点击前往](https://pub.dev/packages/fluro) |
+| cached_network_image | 图片缓存 | [点击前往](https://pub.dev/packages/cached_network_image) |
+| stream_transform | Stream添加常见变换运算符的扩展方法。 | [点击前往](https://pub.dev/packages/stream_transform) |
+| path_provider | Flutter插件，用于查找文件系统上的常用位置。支持iOS和Android。 | [点击前往](https://pub.dev/packages/path_provider) |
+| oktoast | Toast插件 | [点击前往](https://pub.dev/packages/oktoast) |
+| flutter_swiper | 轮播图 | [点击前往](https://pub.dev/packages/flutter_swiper) |
+| pull_to_refresh | 刷新 | [点击前往](https://pub.dev/packages/pull_to_refresh) |
+| shimmer | 骨架屏 | [点击前往](https://pub.dev/packages/shimmer) |
+| flutter_picker | 自定义数据生成选择器 | [点击前往](https://pub.dev/packages/flutter_picker) |
+| badges | 角标 | [点击前往](https://pub.dev/packages/badges) |
+| flutter_rating_bar | 评分 | [点击前往](https://pub.dev/packages/flutter_rating_bar) |
+| marquee | 跑马灯 | [点击前往](https://pub.dev/packages/marquee) |
+| photo_view | 查看大图 | [点击前往](https://pub.dev/packages/photo_view) |
+| flutter_widgets | 分类联动 | [点击前往](https://pub.dev/packages/flutter_widgets) |
+| flutter_gifimage | gif图 | [点击前往](https://pub.dev/packages/flutter_gifimage) |
+| shared_preferences | 数据存储 | [点击前往](https://pub.dev/packages/shared_preferences) |
+| fluttertoast | Toast插件| [点击前往](https://pub.dev/packages/fluttertoast) |
+| flutter_spinkit | 转圈插件 | [点击前往](https://pub.dev/packages/flutter_spinkit) |
+| fluwx | 微信插件 | [点击前往](https://pub.dev/packages/fluwx) |
+| stripe_payment | stripe支付插件 | [点击前往](https://pub.dev/packages/stripe_payment) |
+| image_picker | 选择相册照相机图片插件 | [点击前往](https://pub.dev/packages/image_picker) |
+| flutter_datetime_picker | 日期选择插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
+| url_launcher | 打开网址插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
+| location | 定位插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
+| google_maps_webservice | Google地图查询插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
+| google_maps_flutter | Google地图插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
+| amap_base | 高德地图Flutter插件 | [点击前往](https://pub.dev/packages/amap_base) |
+
 <br>
 <br>
 <br>
