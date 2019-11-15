@@ -76,10 +76,16 @@
 |Flutter 44集免费基础视频教程|1-Flutter基础视频教程 <br> 2-Flutter 20课小实例练习 |[点击前往](https://juejin.im/post/5c452bac6fb9a049af6d919a)| |
 |我看完掘金上的227篇文章，总结出一份 Flutter 入门教程|1.Flutter 简介 <br> 2.为什么原生应用开发者需要关注 Flutter <br> 3.Flutter 英文官网 <br> 4.Flutter 安装（Windows） <br> 5.Flutter 安装（Mac） <br> 6.Google 跨平台方案 Flutter 从入门到实战 <br> 7.Flutter 布局详解 <br> 8.Flutter 布局（一）- Container详解 <br> 9.Flutter 布局（二）- Padding、Align、Center详解 <br> 10.Flutter 布局（三）- FittedBox、AspectRatio、ConstrainedBox详解 <br> 11.Flutter Widgets: Image <br> 12.Flutter Widgets: Text <br> 13.浅尝 Flutter 中的 http 请求|[点击前往](https://juejin.im/post/5b3c8a4be51d4519935860d5)| |
 |flutter-study|1.Flutter 布局 <br> 2.Flutter 动画 <br> 3.现有项目中集成Flutter <br> 4.Flutter Plugin开发流程|[点击前往](https://github.com/yang7229693/flutter-study)| |
-|还在写iOS？是时候学一下Flutter了|1.Widget与UIView <br> 2.如何对Widget布局 <br> 3.如何从布局中添加或者删除一个组件 <br> 4.如何设置Widget 动画<br> 5.如何绘制到屏幕上<br> 6.widget的透明度在<br> 7.如何实现自定义widget<br> 8.导航|[点击前往](https://juejin.im/post/5ce20dec5188250f9d5d505a#heading-9)| |
-|Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349#heading-8)| |
-|用Flutter构建漂亮的UI界面 - 基础组件篇|1.前言 <br> 2.基础组件 <br> 3.布局实战 <br> 4.总结<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349#heading-8)| |
-
+|还在写iOS？是时候学一下Flutter了|1.Widget与UIView <br> 2.如何对Widget布局 <br> 3.如何从布局中添加或者删除一个组件 <br> 4.如何设置Widget 动画<br> 5.如何绘制到屏幕上<br> 6.widget的透明度在<br> 7.如何实现自定义widget<br> 8.导航|[点击前往](https://juejin.im/post/5ce20dec5188250f9d5d505a#heading-9)| RiverLi |
+|Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349)| 升级之路 |
+|用Flutter构建漂亮的UI界面 - 基础组件篇|1.前言 <br> 2.基础组件 <br> 3.布局实战 <br> 4.总结<br> |[点击前往](https://www.jianshu.com/p/d20bb417cd70)| 小石头若海 |
+|Flutter 的生命周期|1.widget的生命周期 <br> 2.App的生命周期 <br> |[点击前往](https://juejin.im/post/5d1209e6e51d454d56535822)| 小德_Kurt |
+|Flutter 的生命周期|1.widget的生命周期 <br> 2.App的生命周期 <br> |[点击前往](https://juejin.im/post/5d1209e6e51d454d56535822)| 小德_Kurt |
+|Flutter Dart语法(1):extends 、 implements 、 with的用法与区别|1.继承(extends) <br> 2.混合 mixins (with) <br> 3.接口实现(implements) |[点击前往](https://juejin.im/post/5c4881dae51d45098e4d96cf)| 小德_Kurt |
+|Flutter | 深入理解BuildContext|1.什么是Navigator，MaterialApp做了什么 <br> 2.BuildContext <br> 3.of(context)方法 |[点击前往](https://juejin.im/post/5c665cb651882562914ec153)| Vadaski |
+|状态管理探索篇——BLoC(三)|1.创建BLoC <br> 2.创建BLoC实例 <br> 3.在页面中使用StreamBuilder |[点击前往](https://juejin.im/post/5bb6f344f265da0aa664d68a)| Vadaski |
+|Flutter  状态管理指南篇——Provider|1.What's the problem <br> 2.What is Provider <br> 3.How to do <br> 4.You also need to know <br> 5.Tips|[点击前往](https://juejin.im/post/5d00a84fe51d455a2f22023f)| Vadaski |
+|Dart  什么是Stream|1.什么是Stream <br> 2.如何使用Stream <br> 3.Stream的种类 |[点击前往](https://juejin.im/post/5baa4b90e51d450e6d00f12e)| Vadaski |
 <br>
 <br>
 <br>
@@ -146,6 +152,19 @@
 |在Flutter中创建有意思的滚动效果 - Sliver系列|  | [点击前往](https://segmentfault.com/a/1190000019902201) |
 |Flutter：Slivers大家族，让滑动视图的组合变得很简单！|  | [点击前往](https://juejin.im/post/5bceb534e51d457aa4596f9a) |
 |【译】Flutter进阶：在应用中实现 Hero(飞行) 动画|  | [点击前往](https://juejin.im/post/5c4dae0de51d456e41391586) |
+|Flutter Hero动画|  | [点击前往](https://flutterchina.club/animations/hero-animations/) |
+| Flutter中的动画 |  | [点击前往](https://www.jianshu.com/p/bc9fbfab70df) |
+| flutter SlideTransition实现平移动画 |  | [点击前往](https://blog.csdn.net/zl18603543572/article/details/95259555) |
+| flutter 中监听滑动事件|  | [点击前往](https://learnku.com/articles/30338) |
+| Flutter: Wrap 、Chip、CircleAvatar实现 流式搜索记录布局 |  | [点击前往](https://www.jianshu.com/p/128b9b34efd0) |
+| Flutter 布局控件完结篇 |  | [点击前往](https://www.jianshu.com/p/01bf6da35b96) |
+| flutter控件Flexible和 Expanded的区别 |  | [点击前往](https://blog.csdn.net/chunchun1230/article/details/82460257) |
+| Flutter在Ios中实现极光推送 |  | [点击前往](http://bbs.itying.com/topic/5d70a5382a95ee138cf28d2e) |
+| Flutter国际化的三种方式-->intl |  | [点击前往](https://www.jianshu.com/p/6ca24dd50c57) |
+| Flutter - International 国际化，Localization 本地化， 使用Intl |  | [点击前往](http://ddrv.cn/a/154389) |
+<!--| Flutter响应式编程 - Stream |  | [点击前往](https://www.jianshu.com/p/675f797f8280) |
+| Flutter Stream简介及部分操作符使用 |  | [点击前往](https://www.haowuliaoa.com/article/info/563717.html) |
+| 初学Flutter基础：关于InheritedWidget的理解 |  | [点击前往](https://blog.csdn.net/XG1057415595/article/details/86761702) |-->
 
 <br>
 <br>
@@ -174,6 +193,7 @@
 |Flutter 实战：正真意义上的无限循环轮播器|| [点击前往](https://blog.csdn.net/weixin_34117522/article/details/91421506) |
 |使用Flutter开发一款电影APP|| [点击前往](https://juejin.im/post/5d31ea42f265da1bbe5e3ea7) |
 |Flutter开发-仿携程项目|| [点击前往](https://www.jianshu.com/p/89b3c6dde061) |
+|产品级Flutter开源项目FunAndroid(WanAndroid客户端)，Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画|| [点击前往](https://github.com/phoenixsky/fun_android_flutter) |
 
 
 <br>
@@ -248,6 +268,8 @@
 |AndroidX compatibility| Android 代码通常使用 android.support库, 以确保向后兼容性。android.support库已弃用, 取而代之的是Androidx。Andredx 具有与具有一些附加功能的旧库的功能奇偶校验, 但不幸的是, 这两组库是不兼容的。 | [点击前往](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility) |
 |setState() called after dispose()|| [点击前往](https://www.jianshu.com/p/9e3bd870d292) |
 |配置方法数超过 64K 的应用|trouble writing output:Too many field references: 131000;max is 65536.You may try using --multi-dex option.| [点击前往](https://developer.android.com/studio/build/multidex) |
+|mac中bash和zsh终端切换方法和zsh配置 ||[点击前往](https://www.jianshu.com/p/3d93f23454d8) |
+|Flutter中使用GridView显示图片出现图片未填充满问题 ||[点击前往](https://blog.csdn.net/Pillar1066527881/article/details/89207718) |
 |Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
 |update Homebrew 太慢，更换Homebrew的更新源| |[点击前往](https://www.jianshu.com/p/b26c7bc14440) |
 |Flutter 图片即使设置了fit: BoxFit.cover不满屏的坑| | [点击前往](https://blog.csdn.net/baidu_34120295/article/details/86527702) |
