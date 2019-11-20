@@ -194,7 +194,14 @@
 |使用Flutter开发一款电影APP|| [点击前往](https://juejin.im/post/5d31ea42f265da1bbe5e3ea7) |
 |Flutter开发-仿携程项目|| [点击前往](https://www.jianshu.com/p/89b3c6dde061) |
 |产品级Flutter开源项目FunAndroid(WanAndroid客户端)，Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画|| [点击前往](https://github.com/phoenixsky/fun_android_flutter) |
-
+|Flutter实战 : 从 0 搭建「网易云音乐」APP（一、创建项目、添加插件、通用代码）|| [点击前往](https://juejin.im/post/5d9de9a2e51d4578282ce25a) |
+|Flutter实战 : 从 0 搭建「网易云音乐」APP（二、Splash Page、登录页、发现页）|| [点击前往](https://juejin.im/post/5da4600cf265da5b5d2053cb) |
+|Flutter实战 : 从 0 搭建「网易云音乐」APP（三、每日推荐、推荐歌单）|| [点击前往](https://juejin.im/post/5da6d2b0f265da5bbe2a3f86) |
+|Flutter实战 : 从 0 搭建「网易云音乐」APP（四、排行榜、播放页面）|| [点击前往](https://juejin.im/post/5dadbb5df265da5bb414d416) |
+|Flutter实战 : 从 0 搭建「网易云音乐」APP（五、播放功能逻辑）|| [点击前往](https://juejin.im/post/5db1acdf518825646724596d) |
+|Flutter实战 : 从 0 搭建「网易云音乐」APP（六、歌词（一））|| [点击前往](https://juejin.im/post/5db7dadee51d452a25137b98) |
+|Flutter实战 : 从 0 搭建「网易云音乐」APP（七、歌词（二））|| [点击前往](https://juejin.im/post/5dc2059be51d452a075707d6) |
+|Flutter实战 :从 0 搭建「网易云音乐」APP（八、我的页面）|| [点击前往](https://juejin.im/post/5dc946a55188256a913c9b39) |
 
 <br>
 <br>
@@ -254,6 +261,11 @@
 | google_maps_webservice | Google地图查询插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
 | google_maps_flutter | Google地图插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
 | amap_base | 高德地图Flutter插件 | [点击前往](https://pub.dev/packages/amap_base) |
+| extended_image | Image扩展组件 | [点击前往](https://pub.dev/packages/extended_image) |
+| permission_handler | 权限处理 | [点击前往](https://pub.dev/packages/permission_handler) |
+| cookie_jar | Cookie 管理 | [点击前往](https://pub.dev/packages/cookie_jar) |
+| dio_cookie_manager | dio cookie 工具 | [点击前往](https://pub.dev/packages/dio_cookie_manager) |
+| flutter_screenutil | 屏幕适配 | [点击前往](https://pub.dev/packages/flutter_screenutil) |
 
 <br>
 <br>
