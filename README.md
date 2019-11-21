@@ -12,9 +12,10 @@
 
 ### <div align=center>[1.基础知识](#1) 
 ### <div align=center>[2.基础细节](#2)
-### <div align=center>[3.项目实战](#3) 
-### <div align=center>[3.三方插件](#4) 
-### <div align=center>[4.易遇问题](#5)
+### <div align=center>[2.基础语法](#3)
+### <div align=center>[3.项目实战](#4) 
+### <div align=center>[3.三方插件](#5) 
+### <div align=center>[4.易遇问题](#6)
 
 <br>
 <br>
@@ -95,7 +96,7 @@
 
 | 基础细节 | 备注信息 | 网址 |
 | --- | --- | --- |
-| flutter发送短信 打电话 打开链接 打开其他APP | ---------------------------------------------------------| [点击前往](https://blog.csdn.net/u011272795/article/details/82786027) |
+| flutter发送短信 打电话 打开链接 打开其他APP | | [点击前往](https://blog.csdn.net/u011272795/article/details/82786027) |
 |Flutter基础Widget之按钮（RaisedButton、FlatButton、OutlineButton，IconButton）|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/85004313) |
 |Flutter - 自定义Dialog|| [点击前往](https://www.jianshu.com/p/4bbbb5aa855d) |
 |flutter之使用自定义字体库|| [点击前往](https://www.jianshu.com/p/efa6b4316d0a) |
@@ -162,16 +163,39 @@
 | Flutter在Ios中实现极光推送 |  | [点击前往](http://bbs.itying.com/topic/5d70a5382a95ee138cf28d2e) |
 | Flutter国际化的三种方式-->intl |  | [点击前往](https://www.jianshu.com/p/6ca24dd50c57) |
 | Flutter - International 国际化，Localization 本地化， 使用Intl |  | [点击前往](http://ddrv.cn/a/154389) |
-<!--| Flutter响应式编程 - Stream |  | [点击前往](https://www.jianshu.com/p/675f797f8280) |
-| Flutter Stream简介及部分操作符使用 |  | [点击前往](https://www.haowuliaoa.com/article/info/563717.html) |
-| 初学Flutter基础：关于InheritedWidget的理解 |  | [点击前往](https://blog.csdn.net/XG1057415595/article/details/86761702) |-->
+| 初学Flutter基础：关于InheritedWidget的理解 |  | [点击前往](https://blog.csdn.net/XG1057415595/article/details/86761702) |
 
 <br>
 <br>
 <br>
-
-
 <span id="3"></span>
+## <div align=center>-------------------------[基础语法](#back)-------------------------</div>
+| 基础语法 | 备注信息 | 网址 |
+| --- | --- | --- |
+| flutter【1】-Dart语言--基本知识 |------------------------------ | [点击前往](https://www.jianshu.com/p/f1ae704fdbe3) |
+| flutter【2】dart语言--内置数据类型 | | [点击前往](https://www.jianshu.com/p/6ffa174aa754) |
+| flutter【3】dart语言--方法 | | [点击前往](https://www.jianshu.com/p/a9a9c449edb9) |
+| flutter【4】dart语言--操作符 | | [点击前往](https://www.jianshu.com/p/1e11c2017e97) |
+| flutter【5】dart语言--流程控制语句 | | [点击前往](https://www.jianshu.com/p/2e97cb87c034) |
+| flutter【6】dart语言--异常 | | [点击前往](https://www.jianshu.com/p/7450d316d257) |
+| flutter【7】dart语言--类 | | [点击前往](https://www.jianshu.com/p/c5f61772d995) |
+| flutter【8】dart语言--泛型 | | [点击前往](https://www.jianshu.com/p/0a3f62dca352) |
+| flutter【9】dart语言--库和可见性 | | [点击前往](https://www.jianshu.com/p/6994a633b1a9) |
+| flutter【10】dart语言--异步支持 | | [点击前往](https://www.jianshu.com/p/02d64e9ba99a) |
+| flutter 中factory（构造方法上的唯一对象） 与单例模式 | | [点击前往](https://blog.csdn.net/sinat_31057219/article/details/90237902) |
+| Flutter基础：理解Dart的Mixin继承机制 | | [点击前往](https://kevinwu.cn/p/ae2ce64/#Dart版本实现) |
+| Flutter 知识梳理 (Dart) - implements, extends, mixin 的理解 | | [点击前往](https://www.jianshu.com/p/18e8d285c81a) |
+| Flutter系列之异步篇：Future，Stream，Isolate | | [点击前往](https://blog.csdn.net/jungle_pig/article/details/96710171) |
+| flutter FutureBuilder的使用以及防止FutureBuilder不必要重绘的两种方法 | | [点击前往](https://blog.csdn.net/u011272795/article/details/83010974) |
+| Flutter中如何利用StreamBuilder和BLoC来控制Widget状态| | [点击前往](https://www.jianshu.com/p/024b19dea138) |
+| Flutter响应式编程 - Stream |  | [点击前往](https://www.jianshu.com/p/675f797f8280) |
+| Flutter Stream简介及部分操作符使用 |  | [点击前往](https://www.haowuliaoa.com/article/info/563717.html) |
+
+<br>
+<br>
+<br>
+
+<span id="4"></span>
 ## <div align=center>-------------------------[项目实战](#back)-------------------------</div>
 
 | 项目实战 | 备注信息 | 网址 |
@@ -208,7 +232,7 @@
 <br>
 
 
-<span id="4"></span>
+<span id="5"></span>
 ## <div align=center>-------------------------[三方插件](#back)-------------------------</div>
 
 | 三方库 | 备注信息 | 网址 |
@@ -272,7 +296,7 @@
 <br>
 
 
-<span id="5"></span>
+<span id="6"></span>
 ## <div align=center>-------------------------[易遇问题](#back)-------------------------</div>
 
 | 易遇问题 | 备注信息 | 网址 |
