@@ -134,13 +134,15 @@
 |flutter 生命周期| | [点击前往](https://blog.csdn.net/u011272795/article/details/82695920) |
 |Flutter Decoration背景设定（边框、圆角、阴影、形状、渐变、背景图像等）| | [点击前往](https://blog.csdn.net/chenlove1/article/details/83627831) |
 |Flutter 图片、圆形头像、圆角图片....各种形状| | [点击前往](https://blog.csdn.net/weixin_44862319/article/details/88993060) |
+|Flutter - 加载网络图片的几种方式| | [点击前往](https://www.jianshu.com/p/63d1a4b36e15) |
 |Flutter自定义渐变色AppBar| | [点击前往](https://www.jianshu.com/p/09c280d76562) |
 |Flutter 实战进阶|【科学上网】| [点击前往](https://www.ldsun.com/flutter-practice/) |
 |Flutter 圆形/圆角头像|  | [点击前往](https://www.jianshu.com/p/b4085a1a5129) |
 |Flutter相关函数记录|  | [点击前往](https://blog.csdn.net/a1540077373/article/details/80742962) |
 |Flutter倒计时定时器（一）|  | [点击前往](https://www.jianshu.com/p/9f1511d74da5) |
 |Flutter知识点: Animation|  | [点击前往](https://www.jianshu.com/p/32fee75d9e70) |
-|Flutter网格型布局 - GridView篇|  | [点击前往](https://segmentfault.com/a/1190000019756746) |
+|Flutter 动画之 AnimationController|  | [点击前往](https://www.jianshu.com/p/32fee75d9e70) |
+|Flutter网格型布局 - GridView篇|  | [点击前往](https://www.jianshu.com/p/e8fd23006774) |
 |Flutter 基础组件之 Stack|  | [点击前往](https://blog.csdn.net/zgcqflqinhao/article/details/85328665) |
 |Flutter Widget - Positioned;|  | [点击前往](https://juejin.im/post/5c7dd8af6fb9a049b41d357a) |
 |Flutter更新showDialog中的内容|  | [点击前往](https://juejin.im/entry/5cd264ff6fb9a032332b4510) |
@@ -150,8 +152,6 @@
 |Flutter DateTime日期转换|  | [点击前往](https://blog.csdn.net/ruoshui_t/article/details/93072017) |
 |Flutter知识点: Notification| 解决方案1： 参考Flutter知识点: InheritedWidget<br>解决方案2：Notification，子节点状态变更，发送通知上报。 | [点击前往](https://www.jianshu.com/p/d9e7e7ad4daa) |
 |容器类Widget-约束盒子ConstrainedBox和SizedBox容器|  | [点击前往](https://www.jianshu.com/p/ba46bcfdf827) |
-|在Flutter中创建有意思的滚动效果 - Sliver系列|  | [点击前往](https://segmentfault.com/a/1190000019902201) |
-|Flutter：Slivers大家族，让滑动视图的组合变得很简单！|  | [点击前往](https://juejin.im/post/5bceb534e51d457aa4596f9a) |
 |【译】Flutter进阶：在应用中实现 Hero(飞行) 动画|  | [点击前往](https://juejin.im/post/5c4dae0de51d456e41391586) |
 |Flutter Hero动画|  | [点击前往](https://flutterchina.club/animations/hero-animations/) |
 | Flutter中的动画 |  | [点击前往](https://www.jianshu.com/p/bc9fbfab70df) |
@@ -164,6 +164,17 @@
 | Flutter国际化的三种方式-->intl |  | [点击前往](https://www.jianshu.com/p/6ca24dd50c57) |
 | Flutter - International 国际化，Localization 本地化， 使用Intl |  | [点击前往](http://ddrv.cn/a/154389) |
 | 初学Flutter基础：关于InheritedWidget的理解 |  | [点击前往](https://blog.csdn.net/XG1057415595/article/details/86761702) |
+|Flutter跨平台移动端开发丨SingleChildScrollView、ListView、GridView、CustomScrollView、ScrollController|  | [点击前往](https://www.jianshu.com/p/eb137a05ddba) |
+|在Flutter中创建有意思的滚动效果 - Sliver系列|  | [点击前往](https://segmentfault.com/a/1190000019902201) |
+|Flutter：Slivers大家族，让滑动视图的组合变得很简单！|  | [点击前往](https://juejin.im/post/5bceb534e51d457aa4596f9a) |
+|Flutter SliverAppBar全解析，你要的效果都在这了！|  | [点击前往](https://blog.csdn.net/yechaoa/article/details/90701321) |
+|SliverAppBar,CustomScrollView,NestedScrollView的使用|  | [点击前往](https://www.cnblogs.com/lxlx1798/p/11115573.html) |
+|flutter控件----NestedScrollView+TabBar+TabBarView实现折叠顶部布局|  | [点击前往](https://blog.csdn.net/S43565442/article/details/86484426) |
+|Flutter 扩展NestedScrollView （一）Pinned头引起的bug解决|  | [点击前往](https://juejin.im/post/5bea43ade51d45544844010a) |
+|Flutter 扩展NestedScrollView （二）列表滚动同步解决|  | [点击前往](https://juejin.im/post/5bea90c6e51d450319791b2e) |
+|Flutter 扩展NestedScrollView （三）下拉刷新的解决|  | [点击前往](https://juejin.im/post/5beb91275188251d9e0c1d73) |
+|Flutter 44: 图解矩阵变换 Transform 类 (一)|  | [点击前往](http://www.imooc.com/article/286667) |
+|Flutter 69: 图解基本 Stepper 步进器|  | [点击前往](http://www.imooc.com/article/296348) |
 
 <br>
 <br>
@@ -290,7 +301,7 @@
 | cookie_jar | Cookie 管理 | [点击前往](https://pub.dev/packages/cookie_jar) |
 | dio_cookie_manager | dio cookie 工具 | [点击前往](https://pub.dev/packages/dio_cookie_manager) |
 | flutter_screenutil | 屏幕适配 | [点击前往](https://pub.dev/packages/flutter_screenutil) |
-
+| extended_nested_scroll_view | 自定义NestedScrollView | [点击前往](https://pub.dev/packages/extended_nested_scroll_view) |
 <br>
 <br>
 <br>
