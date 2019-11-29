@@ -96,6 +96,7 @@
 
 | 基础细节 | 备注信息 | 网址 |
 | --- | --- | --- |
+|Flutter学习笔记1-Widgets划分|| [点击前往](https://www.jianshu.com/p/febadddaf306) |
 | flutter发送短信 打电话 打开链接 打开其他APP | | [点击前往](https://blog.csdn.net/u011272795/article/details/82786027) |
 |Flutter基础Widget之按钮（RaisedButton、FlatButton、OutlineButton，IconButton）|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/85004313) |
 |Flutter - 自定义Dialog|| [点击前往](https://www.jianshu.com/p/4bbbb5aa855d) |
