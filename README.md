@@ -176,7 +176,9 @@
 |Flutter 扩展NestedScrollView （三）下拉刷新的解决|  | [点击前往](https://juejin.im/post/5beb91275188251d9e0c1d73) |
 |Flutter 44: 图解矩阵变换 Transform 类 (一)|  | [点击前往](http://www.imooc.com/article/286667) |
 |Flutter 69: 图解基本 Stepper 步进器|  | [点击前往](http://www.imooc.com/article/296348) |
-
+|深入理解Flutter Platform Channel|  | [点击前往](https://www.jianshu.com/p/39575a90e820) |
+|Flutter项目调用安卓原生代码|  | [点击前往](https://blog.csdn.net/weixin_43851639/article/details/100555538) |
+|Flutter调用iOS原生方法|  | [点击前往](https://www.jianshu.com/p/e0d73109daec) |
 <br>
 <br>
 <br>
