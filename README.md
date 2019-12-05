@@ -291,7 +291,11 @@
 | fluttertoast | Toast插件| [点击前往](https://pub.dev/packages/fluttertoast) |
 | flutter_spinkit | 转圈插件 | [点击前往](https://pub.dev/packages/flutter_spinkit) |
 | fluwx | 微信插件 | [点击前往](https://pub.dev/packages/fluwx) |
+| flutter_qq | QQ插件 | [点击前往](https://pub.dev/packages/flutter_qq) |
 | stripe_payment | stripe支付插件 | [点击前往](https://pub.dev/packages/stripe_payment) |
+| share | 支持分享的flutter插件。 | [点击前往](https://pub.dev/packages/share) |
+| flutter_umeng_analytics | 友盟的分享和统计库。 | [点击前往](https://pub.dev/packages/flutter_umeng_analytics) |
+| flutter_alipay | 调用支付宝进行支付的功能，兼容android和iOS。 | [点击前往](https://pub.dev/packages/flutter_alipay) |
 | image_picker | 选择相册照相机图片插件 | [点击前往](https://pub.dev/packages/image_picker) |
 | flutter_datetime_picker | 日期选择插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
 | url_launcher | 打开网址插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
@@ -305,6 +309,20 @@
 | dio_cookie_manager | dio cookie 工具 | [点击前往](https://pub.dev/packages/dio_cookie_manager) |
 | flutter_screenutil | 屏幕适配 | [点击前往](https://pub.dev/packages/flutter_screenutil) |
 | extended_nested_scroll_view | 自定义NestedScrollView | [点击前往](https://pub.dev/packages/extended_nested_scroll_view) |
+| lpinyin | Dart汉字转拼音库 | [点击前往](https://pub.dev/packages/lpinyin) |
+| AzListView | 城市列表，索引&悬停效果 | [点击前往](https://pub.dev/packages/AzListView) |
+| flutter_villains | 页面切换动画的库 | [点击前往](https://pub.dev/packages/flutter_villains) |
+| flutter_advanced_networkimage | 图像缓存加载和缩放控制库 | [点击前往](https://pub.dev/packages/flutter_advanced_networkimage) |
+| flutter_svg | 加载svg图像 | [点击前往](https://pub.dev/packages/flutter_svg) |
+| zoomable_image | 支持图像查看和手势缩放操作功能的图片库 | [点击前往](https://pub.dev/packages/zoomable_image) |
+| carousel_slider | 通过手势划动来切换图像组件，并且此库还支持自动播放图像 | [点击前往](https://pub.dev/packages/carousel_slider) |
+| camera | 用于获取Android和iOS系统相机的信息，支持预览相机馈送和捕捉图像，同时支持录制视频。 | [点击前往](https://pub.dev/packages/camera) |
+| event_bus | 使用Dart流进行解耦应用程序的简单事件总线的库，和Android中的事件总线机制类似，内部使用了广播机制。 | [点击前往](https://pub.dev/packages/event_bus) |
+| video_player | 官方维护的视频播放插件。 | [点击前往](https://pub.dev/packages/video_player) |
+| qr_flutter | 用于二维码的Flutter库，可通过Widget或自定义Paint进行简单快速的QR码渲染。 | [点击前往](https://pub.dev/packages/qr_flutter) |
+| barcode_scan | 于扫描2D条形码和QRCodes的Flutter插件。 | [点击前往](https://pub.dev/packages/barcode_scan) |
+| charts_flutter | 通用的图表库组件，提供基本的柱状图，折线图，饼图等。 | [点击前往](https://pub.dev/packages/charts_flutter) |
+| flutter_circular_chart | 轻松创建的动画圆形图控件的库。 | [点击前往](https://pub.dev/packages/flutter_circular_chart) |
 <br>
 <br>
 <br>
