@@ -219,7 +219,6 @@
 |Flutter 仿滴滴出行App|| [点击前往](https://www.jianshu.com/p/f6d1206aa80a) |
 |基于Google Flutter的WanAndroid客户端|| [点击前往](https://github.com/Sky24n/flutter_wanandroid) |
 |Flutter实战之实现一个简单的新闻阅读器|| [点击前往](https://juejin.im/post/5aae5bb4518825558c4736b5) |
-|Flutter仿网易云音乐：播放界面|| [点击前往](https://juejin.im/post/5c344d1ee51d4557db5a0140) |
 |还不会用Flutter？仿网易云音乐项目（已开源）|| [点击前往](https://www.jianshu.com/p/f2ff3f5d50bc) |
 |Flutter之撸一个漂亮的登录界面的总结|| [点击前往](https://www.jianshu.com/p/0c2ba709b95e) |
 |Flutter交互实战－即刻App探索页下拉＆拖拽效果|| [点击前往](https://juejin.im/post/5c7c72de5188253ec91e3093) |
@@ -227,11 +226,11 @@
 |Flutter 实战：撸半个知乎日报~ThemeListPage|| [点击前往](https://www.jianshu.com/p/265fd0fa6762) |
 |Flutter-评分控件(Rating Bar)的制作|| [点击前往](https://www.jianshu.com/p/6d23602695f5) |
 |日更的FlutterDemo合集，今天你fu了吗|👍👍👍👍👍| [点击前往](https://github.com/OpenFlutter/Flutter-Notebook) |
-|GSYGithubAppFlutter|👍👍👍👍👍|[点击前往](https://github.com/CarGuo/GSYGithubAppFlutter)|
 |Flutter 实战：正真意义上的无限循环轮播器|| [点击前往](https://blog.csdn.net/weixin_34117522/article/details/91421506) |
 |使用Flutter开发一款电影APP|| [点击前往](https://juejin.im/post/5d31ea42f265da1bbe5e3ea7) |
 |Flutter开发-仿携程项目|| [点击前往](https://www.jianshu.com/p/89b3c6dde061) |
 |产品级Flutter开源项目FunAndroid(WanAndroid客户端)，Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画|| [点击前往](https://github.com/phoenixsky/fun_android_flutter) |
+|Flutter仿网易云音乐：播放界面|| [点击前往](https://juejin.im/post/5c344d1ee51d4557db5a0140) |
 |Flutter实战 : 从 0 搭建「网易云音乐」APP（一、创建项目、添加插件、通用代码）|| [点击前往](https://juejin.im/post/5d9de9a2e51d4578282ce25a) |
 |Flutter实战 : 从 0 搭建「网易云音乐」APP（二、Splash Page、登录页、发现页）|| [点击前往](https://juejin.im/post/5da4600cf265da5b5d2053cb) |
 |Flutter实战 : 从 0 搭建「网易云音乐」APP（三、每日推荐、推荐歌单）|| [点击前往](https://juejin.im/post/5da6d2b0f265da5bbe2a3f86) |
@@ -240,7 +239,18 @@
 |Flutter实战 : 从 0 搭建「网易云音乐」APP（六、歌词（一））|| [点击前往](https://juejin.im/post/5db7dadee51d452a25137b98) |
 |Flutter实战 : 从 0 搭建「网易云音乐」APP（七、歌词（二））|| [点击前往](https://juejin.im/post/5dc2059be51d452a075707d6) |
 |Flutter实战 :从 0 搭建「网易云音乐」APP（八、我的页面）|| [点击前往](https://juejin.im/post/5dc946a55188256a913c9b39) |
-
+|NeteaseCloudMusic|高仿最新版的网易云音乐，接口使用Binaryify大佬的 - NeteaseCloudMusicApi|[点击前往](https://github.com/fluttercandies/NeteaseCloudMusic)|
+|flutter-netease-music|flutter music player application （仿网易云音乐）|[点击前往](https://github.com/boyan01/flutter-netease-music)|
+|flutter-go|由阿里巴巴前端技术团队开发的Flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档，是学习Flutter开发的必备手册。| [点击前往](https://github.com/alibaba/flutter-go) |
+|GSYGithubAppFlutter|👍👍👍👍👍|[点击前往](https://github.com/CarGuo/GSYGithubAppFlutter)|
+|flutter-examples|包含Flutter的常见的学习示例。|[点击前往](https://github.com/nisrulz/flutter-examples)|
+|flutter-osc|基于Google Flutter的开源中国客户端，支持Android和iOS。|[点击前往](https://github.com/yubo725/flutter-osc)|
+|FlutterDouBan|Flutter豆瓣客户端,Awesome Flutter Project，全网最100%还原豆瓣客户端。主要功能包括首页、书影音、小组、市集及个人中心，一个不拉。|[点击前往](https://github.com/kaina404/FlutterDouBan)|
+|zhihu-flutter|一个高仿知乎的Flutter应用，支持黑色主题切换。|[点击前往](https://github.com/xujiyou/zhihu-flutter)|
+|flutter_shuqi|高仿书旗小说客户端，所有功能都是用Dart写的，iOS和Android的代码复用率达到了100%。|[点击前往](https://github.com/huanxsd/flutter_shuqi)|
+|Morec|这是一个非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App。细节十分完善，是一个经过完整设计的产品而非 Demo。|[点击前往](https://github.com/Mayandev/morec)|
+|flutter_boss|一个仿Boss直聘的Flutter应用。|[点击前往](https://github.com/heruijun/flutter_boss)|
+|awesome-flutter-cn|一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表|[点击前往](https://github.com/crazycodeboy/awesome-flutter-cn)|
 <br>
 <br>
 <br>
