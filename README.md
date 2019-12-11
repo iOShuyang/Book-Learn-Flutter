@@ -333,6 +333,8 @@
 | barcode_scan | 于扫描2D条形码和QRCodes的Flutter插件。 | [点击前往](https://pub.dev/packages/barcode_scan) |
 | charts_flutter | 通用的图表库组件，提供基本的柱状图，折线图，饼图等。 | [点击前往](https://pub.dev/packages/charts_flutter) |
 | flutter_circular_chart | 轻松创建的动画圆形图控件的库。 | [点击前往](https://pub.dev/packages/flutter_circular_chart) |
+| flutter_sticky_header | Flutter实现的粘性标头。（A Flutter implementation of sticky headers with a sliver as a child.） | [点击前往](https://pub.dev/packages/flutter_sticky_header) |
+| sticky_headers | 使您可以将标题放置在可滚动内容上，该内容在滚动内容时将粘贴在容器的顶部。 | [点击前往](https://pub.dev/packages/sticky_headers) |
 <br>
 <br>
 <br>
