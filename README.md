@@ -14,8 +14,9 @@
 ### <div align=center>[2.基础细节](#2)
 ### <div align=center>[2.基础语法](#3)
 ### <div align=center>[3.项目实战](#4) 
-### <div align=center>[3.三方插件](#5) 
-### <div align=center>[4.易遇问题](#6)
+### <div align=center>[4.三方插件](#5) 
+### <div align=center>[5.易遇问题](#6)
+### <div align=center>[6.面试总结](#7)
 
 <br>
 <br>
@@ -81,12 +82,12 @@
 |Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349)| 升级之路 |
 |用Flutter构建漂亮的UI界面 - 基础组件篇|1.前言 <br> 2.基础组件 <br> 3.布局实战 <br> 4.总结<br> |[点击前往](https://www.jianshu.com/p/d20bb417cd70)| 小石头若海 |
 |Flutter 的生命周期|1.widget的生命周期 <br> 2.App的生命周期 <br> |[点击前往](https://juejin.im/post/5d1209e6e51d454d56535822)| 小德_Kurt |
-|Flutter 的生命周期|1.widget的生命周期 <br> 2.App的生命周期 <br> |[点击前往](https://juejin.im/post/5d1209e6e51d454d56535822)| 小德_Kurt |
 |Flutter Dart语法(1):extends 、 implements 、 with的用法与区别|1.继承(extends) <br> 2.混合 mixins (with) <br> 3.接口实现(implements) |[点击前往](https://juejin.im/post/5c4881dae51d45098e4d96cf)| 小德_Kurt |
 |Flutter 深入理解BuildContext | 1.什么是Navigator，MaterialApp做了什么 <br> 2.BuildContext <br> 3.of(context)方法 |[点击前往](https://juejin.im/post/5c665cb651882562914ec153)| Vadaski |
 |状态管理探索篇——BLoC(三)|1.创建BLoC <br> 2.创建BLoC实例 <br> 3.在页面中使用StreamBuilder |[点击前往](https://juejin.im/post/5bb6f344f265da0aa664d68a)| Vadaski |
 |Flutter  状态管理指南篇——Provider|1.What's the problem <br> 2.What is Provider <br> 3.How to do <br> 4.You also need to know <br> 5.Tips|[点击前往](https://juejin.im/post/5d00a84fe51d455a2f22023f)| Vadaski |
 |Dart  什么是Stream|1.什么是Stream <br> 2.如何使用Stream <br> 3.Stream的种类 |[点击前往](https://juejin.im/post/5baa4b90e51d450e6d00f12e)| Vadaski |
+|Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 <br>
 <br>
 <br>
@@ -218,11 +219,11 @@
 | Flutter基础：理解Dart的Mixin继承机制 | | [点击前往](https://kevinwu.cn/p/ae2ce64/#Dart版本实现) |
 | Flutter 知识梳理 (Dart) - implements, extends, mixin 的理解 | | [点击前往](https://www.jianshu.com/p/18e8d285c81a) |
 | Flutter系列之异步篇：Future，Stream，Isolate | | [点击前往](https://blog.csdn.net/jungle_pig/article/details/96710171) |
-| flutter FutureBuilder的使用以及防止FutureBuilder不必要重绘的两种方法 | | [点击前往](https://blog.csdn.net/u011272795/article/details/83010974) |
+| FutureBuilder的使用以及防止FutureBuilder不必要重绘的两种方法 | | [点击前往](https://blog.csdn.net/u011272795/article/details/83010974) |
 | Flutter中如何利用StreamBuilder和BLoC来控制Widget状态| | [点击前往](https://www.jianshu.com/p/024b19dea138) |
 | Flutter响应式编程 - Stream |  | [点击前往](https://www.jianshu.com/p/675f797f8280) |
 | Flutter Stream简介及部分操作符使用 |  | [点击前往](https://www.haowuliaoa.com/article/info/563717.html) |
-|  |  | --------  |
+| Flutter嵌套深？扩展函数了解一下 |  | [点击前往](https://juejin.im/post/5e086b8c6fb9a0160116a90d) |
 <br>
 <br>
 <br>
@@ -386,3 +387,21 @@
 |Flutter中setState导致的内存泄漏——setState() called after dispose() ||[点击前往](https://blog.csdn.net/qq_26287435/article/details/89674247) |
 |flutter 打android-arm64平台 ||[点击前往](https://blog.csdn.net/dalong3976/article/details/94736506) |
 |flutter调出键盘报错溢出异常：bottom overflowed by 104 PIXELS ||[点击前往](https://blog.csdn.net/wo541075754/article/details/86145870) |
+
+<br>
+<br>
+<br>
+
+
+<span id="7"></span>
+## <div align=center>-------------------------[面试总结](#back)-------------------------</div>
+| 面试题总结 | 时间 | 地址 |
+| --- | --- | --- |
+| 老许，你要转Flutter不要？只要你开金口，面试题现在就给你送来 | 2020.01.01 |[点击前往](https://juejin.im/post/5e0c9112e51d4540e04d32e8) |
+| Flutter 面试知识点集锦 | 2019.05.14 |[点击前往](https://www.jianshu.com/p/5a0df9b4e817) |
+| Flutter 一些面试可能会问基础知识 |  |[点击前往](https://www.cnblogs.com/yangyxd/p/10449614.html) |
+| Flutter 金九银十招聘季，这些面试题祝你一臂之力 | 2019.10.14 |[点击前往](http://www.imooc.com/article/293455) |
+
+<br>
+<br>
+<br>
