@@ -215,7 +215,12 @@
 | flutter【8】dart语言--泛型 | | [点击前往](https://www.jianshu.com/p/0a3f62dca352) |
 | flutter【9】dart语言--库和可见性 | | [点击前往](https://www.jianshu.com/p/6994a633b1a9) |
 | flutter【10】dart语言--异步支持 | | [点击前往](https://www.jianshu.com/p/02d64e9ba99a) |
-| flutter 中factory（构造方法上的唯一对象） 与单例模式 | | [点击前往](https://blog.csdn.net/sinat_31057219/article/details/90237902) |
+| 01– 变量, 类型和 函数 |  | [点击前往](https://juejin.im/post/5b2bafdaf265da597c772819) |
+| 02 –控制流 和异常 |  | [点击前往](https://juejin.im/post/5b2c4d3151882574957a721b) |
+| 03 – 类和泛型 |  | [点击前往](https://juejin.im/post/5b2c55e9e51d4558aa04f8f4) |
+| 04 – 异步和库 |  | [点击前往](https://juejin.im/post/5b2c67a351882574a756f2eb) |
+| flutter-dart 类的构造函数 |  | [点击前往](https://juejin.im/post/5b2b4c36f265da59b243cac9) |
+| flutter 中factory（构造方法上的唯一对象） 与单例模式 |  | [点击前往](https://blog.csdn.net/sinat_31057219/article/details/90237902) |
 | Flutter基础：理解Dart的Mixin继承机制 | | [点击前往](https://kevinwu.cn/p/ae2ce64/#Dart版本实现) |
 | Flutter 知识梳理 (Dart) - implements, extends, mixin 的理解 | | [点击前往](https://www.jianshu.com/p/18e8d285c81a) |
 | Flutter系列之异步篇：Future，Stream，Isolate | | [点击前往](https://blog.csdn.net/jungle_pig/article/details/96710171) |
@@ -224,6 +229,7 @@
 | Flutter响应式编程 - Stream |  | [点击前往](https://www.jianshu.com/p/675f797f8280) |
 | Flutter Stream简介及部分操作符使用 |  | [点击前往](https://www.haowuliaoa.com/article/info/563717.html) |
 | Flutter嵌套深？扩展函数了解一下 |  | [点击前往](https://juejin.im/post/5e086b8c6fb9a0160116a90d) |
+
 <br>
 <br>
 <br>
