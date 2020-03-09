@@ -102,10 +102,11 @@
 |Flutter 图片、圆形头像、圆角图片....各种形状| | [点击前往](https://blog.csdn.net/weixin_44862319/article/details/88993060) |【圆】 |
 |Flutter 圆形/圆角头像|  | [点击前往](https://www.jianshu.com/p/b4085a1a5129) |【圆】 |
 |Flutter中的圆角和圆形效果|  | [点击前往](https://blog.csdn.net/changzengli/article/details/92782681) |【圆】 |
-| -------------🔥图片🔥-------------|  |  |  |
+| -------------🔥图片🔥-------------| ------------- | - | --- |
+|Flutter - 图片加载| | [点击前往](https://juejin.im/post/5e3bbb07f265da574f352dc9) |【图片】 |
 |Flutter - 加载网络图片的几种方式| | [点击前往](https://www.jianshu.com/p/63d1a4b36e15) |【图片】 |
 |Flutter Image 本地&网络图片、圆形图片、CachedNetworkImage Widget 和 FadeInImage Widget|  | [点击前往](http://www.ptbird.cn/flutter-image-cachednetworkimage-fadeinimage.html) |【图片】 |
-| -------------🔥框架🔥-------------|  |  |  |
+| -------------🔥框架🔥-------------| ------------- | - | --- |
 |根据一个完整项目学习Flutter—1、使用主题共享颜色和字体样式(ThemeData)|| [点击前往](https://www.jianshu.com/p/7929e90a19d4) |【框架】 |
 |Flutter：Theme|| [点击前往](https://www.jianshu.com/p/059c5794b29c) |【框架】 |
 |Flutter进阶—路由和导航|| [点击前往](https://blog.csdn.net/hekaiyou/article/details/72853738) |【框架】 |
@@ -119,7 +120,7 @@
 | Flutter在Ios中实现极光推送 |  | [点击前往](http://bbs.itying.com/topic/5d70a5382a95ee138cf28d2e) |【框架】 |
 | Flutter国际化的三种方式-->intl |  | [点击前往](https://www.jianshu.com/p/6ca24dd50c57) |【框架】 |
 | Flutter - International 国际化，Localization 本地化， 使用Intl |  | [点击前往](http://ddrv.cn/a/154389) |【框架】 |
-| -------------🔥控件🔥-------------|  |  |  |
+| -------------🔥控件🔥-------------| ------------- | - | --- |
 |Flutter学习笔记1-Widgets划分|| [点击前往](https://www.jianshu.com/p/febadddaf306) |【控件】 |
 |Flutter基础Widget之按钮（RaisedButton、FlatButton、OutlineButton，IconButton）|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/85004313) |【控件】 |
 |Flutter - 自定义Dialog|| [点击前往](https://www.jianshu.com/p/4bbbb5aa855d) |【控件】 |
@@ -156,7 +157,12 @@
 |Flutter 69: 图解基本 Stepper 步进器|  | [点击前往](http://www.imooc.com/article/296348) |【控件】 |
 |Flutter系列之UI篇：文本显示——RichText|  | [点击前往](https://blog.csdn.net/jungle_pig/article/details/95069268) |【控件】 |
 |flutter组件 RefreshIndicator,Opacity,ClipOval,ClipRRect|  | [点击前往](https://blog.csdn.net/litter_lj/article/details/98876340) |【控件】 |
-| -------------🔥常识🔥-------------|  |  |  |
+| -------------🔥WebView🔥-------------| ------------- | - | --- |
+|在 Flutter 中使用 WebView|  | [点击前往](https://www.jianshu.com/p/91b4c615b2b4) |【WebView】 |
+|Flutter插件之webview_flutter简要使用说明|  | [点击前往](https://blog.csdn.net/zhuang_jiaozhi/article/details/102703809) |【WebView】 |
+|Flutter WebView与JS交互简易指南|  | [点击前往](https://www.jianshu.com/p/de0a78eb17ae) |【WebView】 |
+|一次 Flutter WebView 性能优化|  | [点击前往](https://zhuanlan.zhihu.com/p/103012116) |【WebView】 |
+| -------------🔥常识🔥-------------| ------------- | - | --- |
 |深入理解Flutter多线程|| [点击前往](https://www.jianshu.com/p/54da18ed1a9e) |【常识】 |
 |Flutter   深入浅出Key| | [点击前往](https://www.jianshu.com/p/510c72cecf26) |【常识】 |
 |Flutter相关函数记录|  | [点击前往](https://blog.csdn.net/a1540077373/article/details/80742962) |【常识】 |
@@ -171,7 +177,7 @@
 | 初学Flutter基础：关于InheritedWidget的理解 |  | [点击前往](https://blog.csdn.net/XG1057415595/article/details/86761702) |【常识】 |
 |说说Flutter中的RepaintBoundary|  | [点击前往](https://juejin.im/post/5deda528f265da339f7ce93c) |【常识】 |
 |Flutter的四种运行模式：Debug、Release、Profile和test|  | [点击前往](https://www.jianshu.com/p/4db65478aaa3) |【常识】 |
-| -------------🔥动画🔥-------------|  |  |  |
+| -------------🔥动画🔥-------------| ------------- | - | --- |
 |Flutter 入门指北(Part 10)之手势处理和动画| | [点击前往](https://juejin.im/post/5cb340af6fb9a068b748ab6e) |【动画】 |
 |Flutter知识点: Animation|  | [点击前往](https://www.jianshu.com/p/32fee75d9e70) |【动画】 |
 |Flutter 动画之 AnimationController|  | [点击前往](https://www.jianshu.com/p/32fee75d9e70) |【动画】 |
@@ -180,7 +186,7 @@
 | Flutter中的动画 |  | [点击前往](https://www.jianshu.com/p/bc9fbfab70df) |【动画】 |
 | flutter SlideTransition实现平移动画 |  | [点击前往](https://blog.csdn.net/zl18603543572/article/details/95259555) |【动画】 |
 |Flutter 44: 图解矩阵变换 Transform 类 (一)|  | [点击前往](http://www.imooc.com/article/286667) |【动画】 |
-| -------------🔥地图🔥-------------|  |  |  |
+| -------------🔥地图🔥-------------| ------------- | - | --- |
 |Exploring Google Maps in Flutter|【科学上网】| [点击前往](https://medium.com/flutter-community/exploring-google-maps-in-flutter-8a86d3783d24) |【地图】 |
 |Flutter - Google map widget plugin example.|【科学上网】| [点击前往](https://www.developerlibs.com/2019/04/flutter-google-map-widget-plugin-example.html) |【地图】 |
 |Flutter – Google Maps, Markers and Polygons|【科学上网】| [点击前往](http://tphangout.com/flutter-google-maps-markers-and-polygons/) |【地图】 |
@@ -189,11 +195,11 @@
 |Building Places & Location Search with Map View Using Flutter 1.0|【科学上网】| [点击前往](https://medium.com/flutter-community/building-places-location-search-with-map-view-using-flutter-1-0-alfian-losari-66cacb3bcc24) |【地图】 |
 |Automatic Json Serializing in Flutter Using Json Annotation|【科学上网】| [点击前往](https://medium.com/flutter-community/generate-the-code-to-parse-your-json-in-flutter-c68aa89a81d9) |【地图】 |
 |Flutter 实战进阶|【科学上网】| [点击前往](https://www.ldsun.com/flutter-practice/) |
-| -------------🔥原生🔥-------------|  |  |  |
+| -------------🔥原生🔥-------------| ------------- | - | --- |
 |深入理解Flutter Platform Channel|  | [点击前往](https://www.jianshu.com/p/39575a90e820) |【原生】 |
 |Flutter项目调用安卓原生代码|  | [点击前往](https://blog.csdn.net/weixin_43851639/article/details/100555538) |【原生】 |
 |Flutter调用iOS原生方法|  | [点击前往](https://www.jianshu.com/p/e0d73109daec) |【原生】 |
-| -------------🔥拓展🔥-------------|  |  |  |
+| -------------🔥拓展🔥-------------| ------------- | - | --- |
 |Flutter实战：手把手教你写Flutter Plugin|| [点击前往](https://www.jianshu.com/p/c38dd2efa64a) |【拓展】 |
 
 
@@ -277,6 +283,10 @@
 |Morec|这是一个非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App。细节十分完善，是一个经过完整设计的产品而非 Demo。|[点击前往](https://github.com/Mayandev/morec)|
 |flutter_boss|一个仿Boss直聘的Flutter应用。|[点击前往](https://github.com/heruijun/flutter_boss)|
 |awesome-flutter-cn|一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表|[点击前往](https://github.com/crazycodeboy/awesome-flutter-cn)|
+|gsy_github_app_flutter|跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。|[点击前往](https://github.com/CarGuo/gsy_github_app_flutter)|
+|Flutter - Playing local, network and youtube videos with video player plugin.| |[点击前往](https://www.developerlibs.com/2019/08/flutter-playing-local-network-youtube-video-player-plugin.html)|
+|Flutter 玩转微信——通讯录| |[点击前往](https://www.jianshu.com/p/8d136f31b8a2)|
+|两个半月的业余时间用Flutter做了个app-技术篇| |[点击前往](https://juejin.im/post/5e141b066fb9a0484b46bd4a)|
 <br>
 <br>
 <br>
@@ -292,6 +302,7 @@
 |Flutter部分插件 后续持续更新～点|  | [点击前往](https://www.jianshu.com/p/c78ef5cf7f6a) |
 |Flutter 一些常用库|  | [点击前往](https://www.cnblogs.com/yangyxd/p/9232308.html) |
 |Flutter常用插件|  | [点击前往](https://www.jianshu.com/p/028b9d4c65e3) |
+|2019 Joyy Flutter 总结|  | [点击前往](https://juejin.im/post/5e2557a6e51d4557e41c8036) |
 | hive（hive_generator） | 数据存储 | [点击前往](https://pub.dev/packages/hive) |
 | json_annotation（json_serializable） | 数据解析 | [点击前往](https://pub.dev/packages/json_annotation) |
 | dio | 网络库 | [点击前往](https://pub.dev/packages/dio) |
@@ -362,6 +373,9 @@
 | flutter_sticky_header | Flutter实现的粘性标头。（A Flutter implementation of sticky headers with a sliver as a child.） | [点击前往](https://pub.dev/packages/flutter_sticky_header) |
 | sticky_headers | 使您可以将标题放置在可滚动内容上，该内容在滚动内容时将粘贴在容器的顶部。 | [点击前往](https://pub.dev/packages/sticky_headers) |
 | flui | 开箱即用的高质量 Flutter UI 组件 | [点击前往](https://github.com/Rannie/flui/blob/master/README-zh_CN.md) |
+| flutter-p2p-engine | Flutter视频/直播APP省流量&加速神器. | [点击前往](https://github.com/cdnbye/flutter-p2p-engine/blob/master/Readme_zh.md) |
+| youtube_player | A flutter plugin to play Youtube Videos without API Key in range of Quality(144p, 240p,360p,480p,720p and 1080p). | [点击前往](https://github.com/sarbagyastha/youtube_player) |
+| youtube_player_flutter | Flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API. Supports both Android and iOS platforms. | [点击前往](https://github.com/sarbagyastha/youtube_player_flutter) |
 <br>
 <br>
 <br>
