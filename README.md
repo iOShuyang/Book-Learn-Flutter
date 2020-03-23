@@ -87,7 +87,9 @@
 |状态管理探索篇——BLoC(三)|1.创建BLoC <br> 2.创建BLoC实例 <br> 3.在页面中使用StreamBuilder |[点击前往](https://juejin.im/post/5bb6f344f265da0aa664d68a)| Vadaski |
 |Flutter  状态管理指南篇——Provider|1.What's the problem <br> 2.What is Provider <br> 3.How to do <br> 4.You also need to know <br> 5.Tips|[点击前往](https://juejin.im/post/5d00a84fe51d455a2f22023f)| Vadaski |
 |Dart  什么是Stream|1.什么是Stream <br> 2.如何使用Stream <br> 3.Stream的种类 |[点击前往](https://juejin.im/post/5baa4b90e51d450e6d00f12e)| Vadaski |
+|--------------|-------------|-|-------------|
 |Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
+|八种 Flutter 状态管理-深入评论|1.setState <br> 2.Function callback <br> 3.Delegate <br> 4.Sigslot <br> 5.pkg:scoped_model <br> 6.pkg:provide <br> 7.flutter-provide <br> 8.RxDart, Fish-Redux|[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 <br>
 <br>
 <br>
@@ -114,7 +116,9 @@
 |Flutter学习之路由传参|| [点击前往](https://blog.csdn.net/qq_18948359/article/details/82932748) |【框架】 |
 |flutter之使用自定义字体库|| [点击前往](https://www.jianshu.com/p/efa6b4316d0a) |【框架】 |
 |flutter json解析相关 for json_serializable| | [点击前往](https://www.jianshu.com/p/4210536124b1) |【框架】 |
-|Flutter dio结合json_serializable请求数据并解析Demo| | [点击前往](https://www.jianshu.com/p/e010041f0ec0/) |【框架】 |
+|Flutter dio结合json_serializable请求数据并解析Demo| | [点击前往](https://www.jianshu.com/p/fc7debbb22ae) |【框架】 |
+|Flutter(二十一)——dio库| | [点击前往](https://blog.csdn.net/liyuanjinglyj/article/details/104495013) |【框架】 |
+|Flutter入门进阶之旅（十七）Flutter dio网络请求| | [点击前往](https://www.jianshu.com/p/e010041f0ec0/) |【框架】 |
 |flutter 生命周期| | [点击前往](https://blog.csdn.net/u011272795/article/details/82695920) |【框架】 |
 |Flutter自定义渐变色AppBar| | [点击前往](https://www.jianshu.com/p/09c280d76562) |【框架】 |
 | Flutter在Ios中实现极光推送 |  | [点击前往](http://bbs.itying.com/topic/5d70a5382a95ee138cf28d2e) |【框架】 |
@@ -122,6 +126,8 @@
 | Flutter - International 国际化，Localization 本地化， 使用Intl |  | [点击前往](http://ddrv.cn/a/154389) |【框架】 |
 | -------------🔥控件🔥-------------| ------------- | - | --- |
 |Flutter学习笔记1-Widgets划分|| [点击前往](https://www.jianshu.com/p/febadddaf306) |【控件】 |
+|Flutter之MaterialApp使用详解|| [点击前往](https://cloud.tencent.com/developer/article/1337184) |【控件】 |
+|Flutter-WillPopScope-双击返回与界面退出提示|| [点击前往](https://www.jianshu.com/p/befe02d60944) |【控件】 |
 |Flutter基础Widget之按钮（RaisedButton、FlatButton、OutlineButton，IconButton）|| [点击前往](https://blog.csdn.net/yuzhiqiang_1993/article/details/85004313) |【控件】 |
 |Flutter - 自定义Dialog|| [点击前往](https://www.jianshu.com/p/4bbbb5aa855d) |【控件】 |
 |Flutter 控件之 文本和基本的容器|| [点击前往](http://blog.chengyunfeng.com/?p=1040) |【控件】 |
@@ -201,7 +207,7 @@
 |Flutter调用iOS原生方法|  | [点击前往](https://www.jianshu.com/p/e0d73109daec) |【原生】 |
 | -------------🔥拓展🔥-------------| ------------- | - | --- |
 |Flutter实战：手把手教你写Flutter Plugin|| [点击前往](https://www.jianshu.com/p/c38dd2efa64a) |【拓展】 |
-
+|告别手写，自动生成Flutter/Dart实体类|| [点击前往](https://blog.csdn.net/laxian2009/article/details/83594253) |【拓展】 |
 
 <br>
 <br>
@@ -234,6 +240,7 @@
 | Flutter中如何利用StreamBuilder和BLoC来控制Widget状态| | [点击前往](https://www.jianshu.com/p/024b19dea138) |
 | Flutter响应式编程 - Stream |  | [点击前往](https://www.jianshu.com/p/675f797f8280) |
 | Flutter Stream简介及部分操作符使用 |  | [点击前往](https://www.haowuliaoa.com/article/info/563717.html) |
+| Stream in Dart |  | [点击前往](https://www.jianshu.com/p/1bd3bca98465) |
 | Flutter嵌套深？扩展函数了解一下 |  | [点击前往](https://juejin.im/post/5e086b8c6fb9a0160116a90d) |
 
 <br>
@@ -376,6 +383,7 @@
 | flutter-p2p-engine | Flutter视频/直播APP省流量&加速神器. | [点击前往](https://github.com/cdnbye/flutter-p2p-engine/blob/master/Readme_zh.md) |
 | youtube_player | A flutter plugin to play Youtube Videos without API Key in range of Quality(144p, 240p,360p,480p,720p and 1080p). | [点击前往](https://github.com/sarbagyastha/youtube_player) |
 | youtube_player_flutter | Flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API. Supports both Android and iOS platforms. | [点击前往](https://github.com/sarbagyastha/youtube_player_flutter) |
+| flare_splash_screen | Facilitator for having a Splash screen with a Flare animation until some work has been done for the initialization of the app（骨架屏） | [点击前往](https://pub.dev/packages/flare_splash_screen) |
 <br>
 <br>
 <br>
