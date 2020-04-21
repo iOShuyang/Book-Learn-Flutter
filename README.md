@@ -70,10 +70,49 @@
 |从0开始写一个基于Flutter的开源中国客户端（6）——各个静态页面的实现|1.侧滑菜单页面的实现 <br>2.资讯列表页面的实现 <br>3.动弹列表页面的实现 <br>4.“发现”页面的实现 <br>5.“我的”页面的实现|[点击前往](https://juejin.im/post/5b5dc77fe51d451757327412)| yuxiyu |
 |从0开始写一个基于Flutter的开源中国客户端（7）——App网络请求和数据存储|1.Flutter中的网络请求 <br>2.Flutter中的数据存储 <br>3.从网络加载资讯列表并显示 <br>4.保存登录后的用户数据 |[点击前往](https://juejin.im/post/5b6111b3e51d45198905679a)| yuxiyu |
 |从0开始写一个基于Flutter的开源中国客户端（8）——插件的使用|1.搜索插件包 <br>2.使用flutter_webview_plugin插件 <br>3.使用event_bus插件 <br>4.使用image_picker插件 |[点击前往](https://juejin.im/post/5b62796b5188257bca291c2f)| yuxiyu |
+|Flutter 的生命周期|1.widget的生命周期 <br> 2.App的生命周期 <br> |[点击前往](https://juejin.im/post/5d1209e6e51d454d56535822)| 小德_Kurt |
+|Flutter Dart语法(1):extends 、 implements 、 with的用法与区别|1.继承(extends) <br> 2.混合 mixins (with) <br> 3.接口实现(implements) |[点击前往](https://juejin.im/post/5c4881dae51d45098e4d96cf)| 小德_Kurt |
+|Flutter 深入理解BuildContext | 1.什么是Navigator，MaterialApp做了什么 <br> 2.BuildContext <br> 3.of(context)方法 |[点击前往](https://juejin.im/post/5c665cb651882562914ec153)| Vadaski |
+|状态管理探索篇——BLoC(三)|1.创建BLoC <br> 2.创建BLoC实例 <br> 3.在页面中使用StreamBuilder |[点击前往](https://juejin.im/post/5bb6f344f265da0aa664d68a)| Vadaski |
+|Flutter  状态管理指南篇——Provider|1.What's the problem <br> 2.What is Provider <br> 3.How to do <br> 4.You also need to know <br> 5.Tips|[点击前往](https://juejin.im/post/5d00a84fe51d455a2f22023f)| Vadaski |
+|Dart  什么是Stream|1.什么是Stream <br> 2.如何使用Stream <br> 3.Stream的种类 |[点击前往](https://juejin.im/post/5baa4b90e51d450e6d00f12e)| Vadaski |
+|Flutter之旅:Dart的基础语法|1.Dart中常见数据类型一览 <br> 2.Dart中的变量与常量 <br> 3.运算符<br> 4.Dart中的函数<br> 5.Dart 流程控制 |[点击前往](https://juejin.im/post/5d1d614df265da1b971a9177)| 张风捷特烈 |
+|Flutter之旅：从源码赏析Dart面向对象|1.面向对象的条件 <br> 2.从Size一族开始说起 <br> 3.Dart中的接口与枚举 <br> 4.自定义向量类Vector2 |[点击前往](https://juejin.im/post/5d1ef5b66fb9a07ed7409d1e)| 张风捷特烈 |
+|Flutter之旅：Dart语法扫尾-包访问-泛型--异常-异步-mixin|1.其他常用符号与关键字 <br> 2.库的使用和可见性 <br> 3.泛型 <br> 4.异步操作简介 <br> 5.异常处理 <br> 6.Dart中的多继承|[点击前往](https://juejin.im/post/5d20090e5188251a966be7ca)| 张风捷特烈 |
+|Flutter之旅：认识Widget(源码级)|1.Widget的第一印象 <br> 2.Widget的状态 <br> 3.从Icon源码看StatelessWidget组件 <br> 4.从Checkbox看StatefulWidget组件 |[点击前往](https://juejin.im/post/5d22752c6fb9a07f04206a18)| 张风捷特烈 |
+|Flutter小课堂-Image篇|1.Image的简单认识 <br> 2.Image的属性表现 |[点击前往](https://juejin.im/post/5d2451686fb9a07ee30e3f3a)| 张风捷特烈 |
+|Flutter自定义组件-MultiShower|1.先说需求 <br> 2.MultiShower的使用 <br> 3.组件的实现 <br> 4.全类展示 |[点击前往](https://juejin.im/post/5d2842ac6fb9a07eb15d82ad)| 张风捷特烈 |
+|Flutter小课堂：Text知多少|1.简单使用 <br> 2.Text的style属性 <br> 3.Text的其他属性 <br> 4.TextSpan |[点击前往](https://juejin.im/post/5d292ee96fb9a07edd2a4054)| 张风捷特烈 |
+|Flutter手势交互+自定义绘板组件v0.01|1.从RaisedButton看事件交互 <br> 2.GestureDetector事件处理 <br> 3.手绘板 v0.01 |[点击前往](https://juejin.im/post/5d2c2e9a6fb9a07ead5a2b52)| 张风捷特烈 |
+|Flutter动画之粒子精讲|1.何为动画 <br> 2.粒子动画 <br> 3.粒子束 |[点击前往](https://juejin.im/post/5d2d86126fb9a07ef06fc66e)| 张风捷特烈 |
+|Flutter 动画之 Animation|1.前言 <br> 2.Flutter动画基本使用 <br> 3.让动画更有动感:CurveTween <br> 4.动画的监听和动画序列|[点击前往](https://juejin.im/post/5d2fe77df265da1ba56b5540)| 张风捷特烈 |
+|Flutter动画之自定义动画组件-FlutterLayout|1.前言 <br> 2.AnimatedWidget与AnimatedBuilder <br> 3.组件之所为组件 <br> 4.升级FlutterLayout的功能<br> 5.增加运动曲线|[点击前往](https://juejin.im/post/5d3148836fb9a07ea804038c)| 张风捷特烈 |
+|Flutter必备-StatefulWidget的打开方式|1.前言 <br> 2.从Slider开始说起 <br> 3.如何正确打开Slider <br>4.这样的优势 <br>5.组件间的组合 <br>6.状态的魅力 <br>7.关于修改 <br>8.关于监听 <br>9.复用的灵活 <br>10.小结|[点击前往](https://juejin.im/post/5d329ab26fb9a07ed8427cec)| 张风捷特烈 |
+|Flutter必备-Flex布局完全解读|1.前言 <br> 2.Flex的属性一览 <br> 3.轴向:direction:Axis <br>4.主轴方向:mainAxisAlignment:MainAxisAlignment <br>5.交叉轴方向:crossAxisAlignment:CrossAxisAlignment <br>6.主轴尺寸:mainAxisSize <br>7.文字方向:textDirection:TextDirection <br>8.竖直方向排序:verticalDirection:VerticalDirection <br>9.基线对齐方式:textBaseline:TextBaseline <br>10.用Flex布局写个小例子|[点击前往](https://juejin.im/post/5d32f47a6fb9a07ee7431961)| 张风捷特烈 |
+|Flutter从静态界面到抽取封装|1.微信条目的静态布局 <br> 2.微信条目的封装 <br> 3.掘金简介的静态界面 <br>4.对静态组件的封装 <br>5.仿淘宝商品item |[点击前往](https://juejin.im/post/5d352744e51d4510b71da6c4)| 张风捷特烈 |
+|Flutter必备-Dart中的异步与文件操作全面解析|1.同步 <br> 2.从读取文件开始看异步 <br> 3.Dart中的Stream流 <br>4.Dart的文件系统|[点击前往](https://juejin.im/post/5d37e6426fb9a07ef56277ea)| 张风捷特烈 |
+|Flutter 基础篇 - 网络访问|1.巧妇难为无米之炊 <br> 2.Json的解析 <br> 3.网络请求包dio的使用 |[点击前往](https://juejin.im/post/5d37e6426fb9a07ef56277ea)| 张风捷特烈 |
+|Flutter 数据&状态篇 - setState|1.静态界面的实现 <br> 2.状态的更新 <br> 3.网络请求包dio的使用 |[点击前往](https://juejin.im/post/5d3a8e166fb9a07efa095fe3)| 张风捷特烈 |
+|Flutter 数据&状态篇 - redux|1.初始项目的Redux化 <br> 2.redux优势 <br> 3.对昨天TodoList的改造 |[点击前往](https://juejin.im/post/5d3c009f6fb9a07eaf2bd975)| 张风捷特烈 |
+|Flutter 自组篇- 蛛网图+绘制+动画实践|1.静态蛛网图 <br> 2.动画效果 <br> 3.组件封装 |[点击前往](https://juejin.im/post/5d4124296fb9a06b0f23bffe)| 张风捷特烈 |
+|Flutter 自组篇- 圆形进度条|1.准备阶段 <br> 2.绘制 <br> 3.使用 |[点击前往](https://juejin.im/post/5d43d866518825061a12a6ee)| 张风捷特烈 |
+|Flutter 基础篇 - ListView的使用|1.ListView 的基本使用 <br> 2.ListView进阶使用 <br> 3.ListView滑动控制器(上拉刷新和下拉更新) <br> 4.physics属性|[点击前往](https://juejin.im/post/5d45140e51882533797fc8d2)| 张风捷特烈 |
+|Flutter 插件篇 - 从自定义插件开始说起|1.Flutter插件创建与结构简析 <br> 2.第一个插件代码分析 <br> 3.获取缓存文件夹 <br> 4.其他工程引用插件|[点击前往](https://juejin.im/post/5d47d8fd6fb9a06ac93cb519)| 张风捷特烈 |
+| Flutter 基础篇 - 聊聊那些弹框|1.搭个场子再说 <br> 2.对话框:SimpleDialog <br> 3.对话框:AlertDialog <br> 4.对话框:CupertinoAlertDialog <br> 5.瞎玩一下 <br> 6.对话框中的StatefulWidget <br> 7.底部弹框:SnackBar <br> 8.底部抽屉:BottomSheet <br> 9.日历选表：showDatePicker <br> 10.选择表：CupertinoPicker <br> 11.日期选卡：CupertinoPicker <br> 12.日期选卡：CupertinoPicker|[点击前往](https://juejin.im/post/5d4bb7926fb9a06b084ce1d0)| 张风捷特烈 |
+|Flutter 插件篇 - 认识MethodChannel|1.从吐司弹框开始说起(Android端/Java) <br> 2.从吐司弹框开始说起(iOS端/Swift) <br> 3.Flutter视角看MethodChannel <br> 4.Android视角看MethodChannel <br> 5.信息发送追踪|[点击前往](https://juejin.im/post/5d5137756fb9a06b19732ce4)| 张风捷特烈 |
+|Flutter 自组篇- Flutter中四十行代码能做什么？|1.TreeWidget的思路 <br> 2.TextTreeWidget的封装 |[点击前往](https://juejin.im/post/5d523aa0f265da03b76b15b1)| 张风捷特烈 |
+|Flutter 数据&状态篇 - InheritedWidget|1.现在来模拟一下这个情景 <br> 2.第一个解决方案：InheritedWidget |[点击前往](https://juejin.im/post/5d590e656fb9a06b1b19be8e)| 张风捷特烈 |
+| Flutter 福利篇 - Hero转场组件共享 — 附赠-路由动画工具类|1.起始页：OriginPage <br> 2.目标页：TargetPage <br> 3.关于createRectTween属性 <br> 4.福利时间：路由动画工具|[点击前往](https://juejin.im/post/5d6b2b79e51d453bdc41c112)| 张风捷特烈 |
+| Flutter 技能篇 - debug 看程序启动|1.debug基本操作 <br> 2.多断点的使用及其他 |[点击前往](https://juejin.im/post/5d735052f265da03ca119183)| 张风捷特烈 |
+| Flutter 技能篇 - ui.Image加载探索|1.如何使用Canvas绘制图片 <br> 2.从ImageProvider获取及Image <br> 3.保存网络图片的缩略图 <br> 4.网络图片的加载及缓存文件的有效期 |[点击前往](https://juejin.im/post/5d79c6dbe51d4561e43a6d3e)| 张风捷特烈 |
+| Flutter漫谈篇-  StatelessWidget Or StatefulWidget|1.描述统一形式化 <br> 2.StatelessWidget : f(x) = 2 <br> 3.StatefulWidget : g(x) = 2x <br> 4.如何抉择 <br> 5.StatefulWidget得天独厚的优势 <br> 6.滥用StatefulWidget-机智如你|[点击前往](https://juejin.im/post/5d884a2e5188250962725e78)| 张风捷特烈 |
+| Flutter趣玩篇- 出神入化的Align|1.Align的源码|[点击前往](https://juejin.im/post/5d89967ee51d453b1e478b9a)| 张风捷特烈 |
+| Flutter趣玩篇- 出神入化的Align+动画|1.代码实现 <br> 2.简单封装|[点击前往](https://juejin.im/post/5d8d78f7f265da5ba3082f60)| 张风捷特烈 |
+| Flutter-技能篇 - 使用Provider前你应了解Consumer|1.一把梭 <br> 2.Consumer来帮忙 <br> 3.Consumer做了什么|[点击前往](https://juejin.im/post/5daa928551882529d1528d0c)| 张风捷特烈 |
+| Flutter 状态篇 - 主题色切换+国际化 三连|1.provoder实现主题切换和国际化:provider: ^03.1.0+1 <br> 2.redux实现主题切换和国际化:flutter_redux: ^0.5.3 <br> 3.BLoC实现主题切换和国际化:flutter_bloc: ^0.22.1|[点击前往](https://juejin.im/post/5daa928551882529d1528d0c)| 张风捷特烈 |
+|--------------|-------------|-|-------------|
 | Flutter试用报告 | 1.Flutter 为何使用Dart开发语言 <br> 2.Flutter的UI系统 <br> 3.Flutter与Native的交融 | [点击前往](https://juejin.im/post/5c64cc2d518825626b76d7a5) | |
 |Flutter调试技巧总结——高效开发的秘密|我将自己遇到的错误类型归 语法和代码错误 、 运行时错误 和 逻辑错误 三大类，同时还从官方文档总结了 界面调试 的技巧，分享给大家。|[点击前往](https://juejin.im/post/5bb9b8a75188255c791b1984)| |
-|Flutter 面试知识点集锦|1.Dart 部分 <br> 2.Flutter 部分|[点击前往](https://juejin.im/post/5cd9875ae51d453d022cb662)| 面试题 |
-|可以算是Flutter面试凉凉经吧|一面问的Java 和Android基础<br> 二面问的Flutter和Dart|[点击前往](https://juejin.im/post/5c67d621518825620a7f133e)| 面试题 |
 |使用Flutter来完成Uplabs上炫酷的交互|1.What is Flutter? <br> 2.What is Uplabs? <br> 3.How to implement ？ <br> 4.Join in Flutter-UI-Challenges|[点击前往](https://juejin.im/post/5cd7fa286fb9a0322b5c17bc)| |
 |Flutter 44集免费基础视频教程|1-Flutter基础视频教程 <br> 2-Flutter 20课小实例练习 |[点击前往](https://juejin.im/post/5c452bac6fb9a049af6d919a)| |
 |我看完掘金上的227篇文章，总结出一份 Flutter 入门教程|1.Flutter 简介 <br> 2.为什么原生应用开发者需要关注 Flutter <br> 3.Flutter 英文官网 <br> 4.Flutter 安装（Windows） <br> 5.Flutter 安装（Mac） <br> 6.Google 跨平台方案 Flutter 从入门到实战 <br> 7.Flutter 布局详解 <br> 8.Flutter 布局（一）- Container详解 <br> 9.Flutter 布局（二）- Padding、Align、Center详解 <br> 10.Flutter 布局（三）- FittedBox、AspectRatio、ConstrainedBox详解 <br> 11.Flutter Widgets: Image <br> 12.Flutter Widgets: Text <br> 13.浅尝 Flutter 中的 http 请求|[点击前往](https://juejin.im/post/5b3c8a4be51d4519935860d5)| |
@@ -81,12 +120,9 @@
 |还在写iOS？是时候学一下Flutter了|1.Widget与UIView <br> 2.如何对Widget布局 <br> 3.如何从布局中添加或者删除一个组件 <br> 4.如何设置Widget 动画<br> 5.如何绘制到屏幕上<br> 6.widget的透明度在<br> 7.如何实现自定义widget<br> 8.导航|[点击前往](https://juejin.im/post/5ce20dec5188250f9d5d505a#heading-9)| RiverLi |
 |Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349)| 升级之路 |
 |用Flutter构建漂亮的UI界面 - 基础组件篇|1.前言 <br> 2.基础组件 <br> 3.布局实战 <br> 4.总结<br> |[点击前往](https://www.jianshu.com/p/d20bb417cd70)| 小石头若海 |
-|Flutter 的生命周期|1.widget的生命周期 <br> 2.App的生命周期 <br> |[点击前往](https://juejin.im/post/5d1209e6e51d454d56535822)| 小德_Kurt |
-|Flutter Dart语法(1):extends 、 implements 、 with的用法与区别|1.继承(extends) <br> 2.混合 mixins (with) <br> 3.接口实现(implements) |[点击前往](https://juejin.im/post/5c4881dae51d45098e4d96cf)| 小德_Kurt |
-|Flutter 深入理解BuildContext | 1.什么是Navigator，MaterialApp做了什么 <br> 2.BuildContext <br> 3.of(context)方法 |[点击前往](https://juejin.im/post/5c665cb651882562914ec153)| Vadaski |
-|状态管理探索篇——BLoC(三)|1.创建BLoC <br> 2.创建BLoC实例 <br> 3.在页面中使用StreamBuilder |[点击前往](https://juejin.im/post/5bb6f344f265da0aa664d68a)| Vadaski |
-|Flutter  状态管理指南篇——Provider|1.What's the problem <br> 2.What is Provider <br> 3.How to do <br> 4.You also need to know <br> 5.Tips|[点击前往](https://juejin.im/post/5d00a84fe51d455a2f22023f)| Vadaski |
-|Dart  什么是Stream|1.什么是Stream <br> 2.如何使用Stream <br> 3.Stream的种类 |[点击前往](https://juejin.im/post/5baa4b90e51d450e6d00f12e)| Vadaski |
+|--------------|-------------|-|-------------|
+|Flutter 面试知识点集锦|1.Dart 部分 <br> 2.Flutter 部分|[点击前往](https://juejin.im/post/5cd9875ae51d453d022cb662)| 面试题 |
+|可以算是Flutter面试凉凉经吧|一面问的Java 和Android基础<br> 二面问的Flutter和Dart|[点击前往](https://juejin.im/post/5c67d621518825620a7f133e)| 面试题 |
 |--------------|-------------|-|-------------|
 |Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 |八种 Flutter 状态管理-深入评论|1.setState <br> 2.Function callback <br> 3.Delegate <br> 4.Sigslot <br> 5.pkg:scoped_model <br> 6.pkg:provide <br> 7.flutter-provide <br> 8.RxDart, Fish-Redux|[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
