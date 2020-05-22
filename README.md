@@ -121,11 +121,9 @@
 |Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349)| 升级之路 |
 |用Flutter构建漂亮的UI界面 - 基础组件篇|1.前言 <br> 2.基础组件 <br> 3.布局实战 <br> 4.总结<br> |[点击前往](https://www.jianshu.com/p/d20bb417cd70)| 小石头若海 |
 |--------------|-------------|-|-------------|
-|Flutter 面试知识点集锦|1.Dart 部分 <br> 2.Flutter 部分|[点击前往](https://juejin.im/post/5cd9875ae51d453d022cb662)| 面试题 |
-|可以算是Flutter面试凉凉经吧|一面问的Java 和Android基础<br> 二面问的Flutter和Dart|[点击前往](https://juejin.im/post/5c67d621518825620a7f133e)| 面试题 |
-|--------------|-------------|-|-------------|
 |Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 |八种 Flutter 状态管理-深入评论|1.setState <br> 2.Function callback <br> 3.Delegate <br> 4.Sigslot <br> 5.pkg:scoped_model <br> 6.pkg:provide <br> 7.flutter-provide <br> 8.RxDart, Fish-Redux|[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
+|Flutter - 使用Provider实现状态管理|1.搭建App的架构 <br> 2.使用Provider管理state <br> 3.和业务逻辑通信 <br> 4.创建核心业务逻辑 <br>.... |[点击前往](https://segmentfault.com/a/1190000022263763)| 小红星闪啊闪|
 <br>
 <br>
 <br>
@@ -140,10 +138,12 @@
 |Flutter 图片、圆形头像、圆角图片....各种形状| | [点击前往](https://blog.csdn.net/weixin_44862319/article/details/88993060) |【圆】 |
 |Flutter 圆形/圆角头像|  | [点击前往](https://www.jianshu.com/p/b4085a1a5129) |【圆】 |
 |Flutter中的圆角和圆形效果|  | [点击前往](https://blog.csdn.net/changzengli/article/details/92782681) |【圆】 |
+|Flutter 裁剪布局之 ClipRect、ClipRRect、ClipOval、ClipPath、CustomClipper|  | [点击前往](https://blog.csdn.net/ITxiaodong/article/details/105029358) |【圆】 |
 | -------------🔥图片🔥-------------| ------------- | - | --- |
 |Flutter - 图片加载| | [点击前往](https://juejin.im/post/5e3bbb07f265da574f352dc9) |【图片】 |
 |Flutter - 加载网络图片的几种方式| | [点击前往](https://www.jianshu.com/p/63d1a4b36e15) |【图片】 |
 |Flutter Image 本地&网络图片、圆形图片、CachedNetworkImage Widget 和 FadeInImage Widget|  | [点击前往](http://www.ptbird.cn/flutter-image-cachednetworkimage-fadeinimage.html) |【图片】 |
+|Flutter 中的图文混排与原理解析| | [点击前往](https://juejin.im/post/5e68b6ae6fb9a07cdb468722) |【图片】 |
 | -------------🔥框架🔥-------------| ------------- | - | --- |
 |根据一个完整项目学习Flutter—1、使用主题共享颜色和字体样式(ThemeData)|| [点击前往](https://www.jianshu.com/p/7929e90a19d4) |【框架】 |
 |Flutter：Theme|| [点击前往](https://www.jianshu.com/p/059c5794b29c) |【框架】 |
@@ -189,6 +189,7 @@
 | Flutter 布局控件完结篇 |  | [点击前往](https://www.jianshu.com/p/01bf6da35b96) |【控件】 |
 |Flutter跨平台移动端开发丨SingleChildScrollView、ListView、GridView、CustomScrollView、ScrollController|  | [点击前往](https://www.jianshu.com/p/eb137a05ddba) |【控件】 |
 |在Flutter中创建有意思的滚动效果 - Sliver系列|  | [点击前往](https://segmentfault.com/a/1190000019902201) |【控件】 |
+|Flutter - 循序渐进 Sliver|  | [点击前往](https://juejin.im/post/5eba7bd8f265da7bf32d47e5) |【控件】 |
 |Flutter：Slivers大家族，让滑动视图的组合变得很简单！|  | [点击前往](https://juejin.im/post/5bceb534e51d457aa4596f9a) |【控件】 |
 |Flutter SliverAppBar全解析，你要的效果都在这了！|  | [点击前往](https://blog.csdn.net/yechaoa/article/details/90701321) |【控件】 |
 |SliverAppBar,CustomScrollView,NestedScrollView的使用|  | [点击前往](https://www.cnblogs.com/lxlx1798/p/11115573.html) |【控件】 |
@@ -228,6 +229,7 @@
 | Flutter中的动画 |  | [点击前往](https://www.jianshu.com/p/bc9fbfab70df) |【动画】 |
 | flutter SlideTransition实现平移动画 |  | [点击前往](https://blog.csdn.net/zl18603543572/article/details/95259555) |【动画】 |
 |Flutter 44: 图解矩阵变换 Transform 类 (一)|  | [点击前往](http://www.imooc.com/article/286667) |【动画】 |
+|AnimatedCrossFade|  | [点击前往](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html) |【动画】 |
 | -------------🔥地图🔥-------------| ------------- | - | --- |
 |Exploring Google Maps in Flutter|【科学上网】| [点击前往](https://medium.com/flutter-community/exploring-google-maps-in-flutter-8a86d3783d24) |【地图】 |
 |Flutter - Google map widget plugin example.|【科学上网】| [点击前往](https://www.developerlibs.com/2019/04/flutter-google-map-widget-plugin-example.html) |【地图】 |
@@ -289,6 +291,7 @@
 | 项目实战 | 备注信息 | 网址 |
 | --- | --- | --- |
 | Flutter 性能优化实践 总结 | 👍👍👍👍👍 | [点击前往](https://juejin.im/post/5dfc64526fb9a01601169c28) |
+| Flutter性能优化实践 —— UI篇 |  | [点击前往](https://juejin.im/post/5eb8c4ade51d454da43e224b) |
 | Flutter实战详解--高仿好奇心日报 |  | [点击前往](https://juejin.im/post/5c31f7236fb9a04a04412d0b) |
 |Flutter知乎App实践：UI+Json+Utils|| [点击前往](https://juejin.im/post/5c5014a6518825260d7ef89a) |
 |Flutter 仿滴滴出行App|| [点击前往](https://www.jianshu.com/p/f6d1206aa80a) |
@@ -330,6 +333,12 @@
 |Flutter - Playing local, network and youtube videos with video player plugin.| |[点击前往](https://www.developerlibs.com/2019/08/flutter-playing-local-network-youtube-video-player-plugin.html)|
 |Flutter 玩转微信——通讯录| |[点击前往](https://www.jianshu.com/p/8d136f31b8a2)|
 |两个半月的业余时间用Flutter做了个app-技术篇| |[点击前往](https://juejin.im/post/5e141b066fb9a0484b46bd4a)|
+|编写一个非常精美的Flutter Todo-List项目| |[点击前往](https://segmentfault.com/a/1190000019972838)|
+|Flutter开发实战 高仿微信（1）首页| |[点击前往](https://juejin.im/post/5ebdf7d96fb9a0432a3c4376)|
+|Flutter 10天高仿大厂App及小技巧积累总结| |[点击前往](https://juejin.im/post/5eba1772e51d454dea6fe280)|
+|Flutter实现启动页、闪屏广告页、引导页| |[点击前往](https://www.jianshu.com/p/c80fca757bb2)|
+|Flutter异常监测与上报| |[点击前往](https://segmentfault.com/a/1190000022280728)|
+
 <br>
 <br>
 <br>
@@ -420,6 +429,11 @@
 | youtube_player | A flutter plugin to play Youtube Videos without API Key in range of Quality(144p, 240p,360p,480p,720p and 1080p). | [点击前往](https://github.com/sarbagyastha/youtube_player) |
 | youtube_player_flutter | Flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API. Supports both Android and iOS platforms. | [点击前往](https://github.com/sarbagyastha/youtube_player_flutter) |
 | flare_splash_screen | Facilitator for having a Splash screen with a Flare animation until some work has been done for the initialization of the app（骨架屏） | [点击前往](https://pub.dev/packages/flare_splash_screen) |
+| ff_annotation_route | 通过注解快速完成路由映射. | [点击前往](https://pub.flutter-io.cn/packages/ff_annotation_route) |
+| firebase_auth | A Flutter plugin to use the Firebase Authentication API. | [点击前往](https://pub.flutter-io.cn/packages/firebase_auth) |
+| firebase_analytics | A Flutter plugin to use the Google Analytics for Firebase API. | [点击前往](https://pub.flutter-io.cn/packages/firebase_analytics) |
+| firebase_dynamic_links | A Flutter plugin to use the Google Dynamic Links for Firebase API. | [点击前往](https://pub.flutter-io.cn/packages/firebase_dynamic_links) |
+| FRefresh | 刷新控件（在过去一段时间中，我们已经先后向社区开放了 5 实用精美的 Widget （ FSuper 、 FButton 、 FSwitch 、 FRadio 、 FFloat ），帮助开发者们更易构建出赏心悦目的应用。） | [点击前往](https://juejin.im/post/5ec6a1c1f265da771066c50a) |
 <br>
 <br>
 <br>
@@ -465,7 +479,8 @@
 | Flutter 面试知识点集锦 | 2019.05.14 |[点击前往](https://www.jianshu.com/p/5a0df9b4e817) |
 | Flutter 一些面试可能会问基础知识 |  |[点击前往](https://www.cnblogs.com/yangyxd/p/10449614.html) |
 | Flutter 金九银十招聘季，这些面试题祝你一臂之力 | 2019.10.14 |[点击前往](http://www.imooc.com/article/293455) |
-
+|可以算是Flutter面试凉凉经吧|2019.02.16|[点击前往](https://juejin.im/post/5c67d621518825620a7f133e)| 面试题 |
+|Android-Flutter面经 | 掘金技术征文|2020.04.24|[点击前往](https://juejin.im/post/5ea2ab266fb9a03c82234a9f)| 面试题 |
 <br>
 <br>
 <br>
