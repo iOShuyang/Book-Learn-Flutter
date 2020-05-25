@@ -230,6 +230,7 @@
 | flutter SlideTransition实现平移动画 |  | [点击前往](https://blog.csdn.net/zl18603543572/article/details/95259555) |【动画】 |
 |Flutter 44: 图解矩阵变换 Transform 类 (一)|  | [点击前往](http://www.imooc.com/article/286667) |【动画】 |
 |AnimatedCrossFade|  | [点击前往](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html) |【动画】 |
+|Flutter “孔雀开屏”的动画效果|  | [点击前往](https://juejin.im/post/5eca5f7cf265da76f65305ae) |【动画】 |
 | -------------🔥地图🔥-------------| ------------- | - | --- |
 |Exploring Google Maps in Flutter|【科学上网】| [点击前往](https://medium.com/flutter-community/exploring-google-maps-in-flutter-8a86d3783d24) |【地图】 |
 |Flutter - Google map widget plugin example.|【科学上网】| [点击前往](https://www.developerlibs.com/2019/04/flutter-google-map-widget-plugin-example.html) |【地图】 |
@@ -336,6 +337,7 @@
 |编写一个非常精美的Flutter Todo-List项目| |[点击前往](https://segmentfault.com/a/1190000019972838)|
 |Flutter开发实战 高仿微信（1）首页| |[点击前往](https://juejin.im/post/5ebdf7d96fb9a0432a3c4376)|
 |Flutter 10天高仿大厂App及小技巧积累总结| |[点击前往](https://juejin.im/post/5eba1772e51d454dea6fe280)|
+|【Flutter应用】Flutter精仿抖音开源| |[点击前往](https://segmentfault.com/a/1190000022697341)|
 |Flutter实现启动页、闪屏广告页、引导页| |[点击前往](https://www.jianshu.com/p/c80fca757bb2)|
 |Flutter异常监测与上报| |[点击前往](https://segmentfault.com/a/1190000022280728)|
 
@@ -376,6 +378,8 @@
 | stream_transform | Stream添加常见变换运算符的扩展方法。 | [点击前往](https://pub.dev/packages/stream_transform) |
 | path_provider | Flutter插件，用于查找文件系统上的常用位置。支持iOS和Android。 | [点击前往](https://pub.dev/packages/path_provider) |
 | oktoast | Toast插件 | [点击前往](https://pub.dev/packages/oktoast) |
+| fluttertoast | Toast插件| [点击前往](https://pub.dev/packages/fluttertoast) |
+| flutter_easyloading | Toast插件 | [点击前往](https://pub.flutter-io.cn/packages/flutter_easyloading) |
 | flutter_swiper | 轮播图 | [点击前往](https://pub.dev/packages/flutter_swiper) |
 | pull_to_refresh | 刷新 | [点击前往](https://pub.dev/packages/pull_to_refresh) |
 | shimmer | 骨架屏 | [点击前往](https://pub.dev/packages/shimmer) |
@@ -387,7 +391,6 @@
 | flutter_widgets | 分类联动 | [点击前往](https://pub.dev/packages/flutter_widgets) |
 | flutter_gifimage | gif图 | [点击前往](https://pub.dev/packages/flutter_gifimage) |
 | shared_preferences | 数据存储 | [点击前往](https://pub.dev/packages/shared_preferences) |
-| fluttertoast | Toast插件| [点击前往](https://pub.dev/packages/fluttertoast) |
 | flutter_spinkit | 转圈插件 | [点击前往](https://pub.dev/packages/flutter_spinkit) |
 | fluwx | 微信插件 | [点击前往](https://pub.dev/packages/fluwx) |
 | flutter_qq | QQ插件 | [点击前往](https://pub.dev/packages/flutter_qq) |
@@ -401,7 +404,8 @@
 | location | 定位插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
 | google_maps_webservice | Google地图查询插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
 | google_maps_flutter | Google地图插件 | [点击前往](https://pub.dev/packages/flutter_datetime_picker) |
-| amap_base | 高德地图Flutter插件 | [点击前往](https://pub.dev/packages/amap_base) |
+| amap_base | 高德地图Flutter插件【废弃】 | [点击前往](https://pub.dev/packages/amap_base) |
+| amap_map_fluttify | 最新的高德地图Flutter插件 | [点击前往](https://pub.flutter-io.cn/packages/amap_map_fluttify) |
 | extended_image | Image扩展组件 | [点击前往](https://pub.dev/packages/extended_image) |
 | permission_handler | 权限处理 | [点击前往](https://pub.dev/packages/permission_handler) |
 | cookie_jar | Cookie 管理 | [点击前往](https://pub.dev/packages/cookie_jar) |
@@ -434,6 +438,7 @@
 | firebase_analytics | A Flutter plugin to use the Google Analytics for Firebase API. | [点击前往](https://pub.flutter-io.cn/packages/firebase_analytics) |
 | firebase_dynamic_links | A Flutter plugin to use the Google Dynamic Links for Firebase API. | [点击前往](https://pub.flutter-io.cn/packages/firebase_dynamic_links) |
 | FRefresh | 刷新控件（在过去一段时间中，我们已经先后向社区开放了 5 实用精美的 Widget （ FSuper 、 FButton 、 FSwitch 、 FRadio 、 FFloat ），帮助开发者们更易构建出赏心悦目的应用。） | [点击前往](https://juejin.im/post/5ec6a1c1f265da771066c50a) |
+| flutter_custom_calendar | Flutter的一个日历控件 | [点击前往](https://github.com/fluttercandies/flutter_custom_calendar) |
 <br>
 <br>
 <br>
