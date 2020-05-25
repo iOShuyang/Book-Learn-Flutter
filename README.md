@@ -485,7 +485,7 @@
 | Flutter 一些面试可能会问基础知识 |  |[点击前往](https://www.cnblogs.com/yangyxd/p/10449614.html) |
 | Flutter 金九银十招聘季，这些面试题祝你一臂之力 | 2019.10.14 |[点击前往](http://www.imooc.com/article/293455) |
 |可以算是Flutter面试凉凉经吧|2019.02.16|[点击前往](https://juejin.im/post/5c67d621518825620a7f133e)| 面试题 |
-|Android-Flutter面经 | 掘金技术征文|2020.04.24|[点击前往](https://juejin.im/post/5ea2ab266fb9a03c82234a9f)| 面试题 |
+|Android-Flutter面经 |2020.04.24|[点击前往](https://juejin.im/post/5ea2ab266fb9a03c82234a9f)| 面试题 |
 <br>
 <br>
 <br>
