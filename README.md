@@ -73,9 +73,12 @@
 |Flutter 的生命周期|1.widget的生命周期 <br> 2.App的生命周期 <br> |[点击前往](https://juejin.im/post/5d1209e6e51d454d56535822)| 小德_Kurt |
 |Flutter Dart语法(1):extends 、 implements 、 with的用法与区别|1.继承(extends) <br> 2.混合 mixins (with) <br> 3.接口实现(implements) |[点击前往](https://juejin.im/post/5c4881dae51d45098e4d96cf)| 小德_Kurt |
 |Flutter 深入理解BuildContext | 1.什么是Navigator，MaterialApp做了什么 <br> 2.BuildContext <br> 3.of(context)方法 |[点击前往](https://juejin.im/post/5c665cb651882562914ec153)| Vadaski |
-|状态管理探索篇——BLoC(三)|1.创建BLoC <br> 2.创建BLoC实例 <br> 3.在页面中使用StreamBuilder |[点击前往](https://juejin.im/post/5bb6f344f265da0aa664d68a)| Vadaski |
-|Flutter  状态管理指南篇——Provider|1.What's the problem <br> 2.What is Provider <br> 3.How to do <br> 4.You also need to know <br> 5.Tips|[点击前往](https://juejin.im/post/5d00a84fe51d455a2f22023f)| Vadaski |
 |Dart  什么是Stream|1.什么是Stream <br> 2.如何使用Stream <br> 3.Stream的种类 |[点击前往](https://juejin.im/post/5baa4b90e51d450e6d00f12e)| Vadaski |
+|状态管理探索篇——Scoped Model（一）|1.添加依赖 <br> 2.创建Model <br> 3.将Model放入顶层 <br> 4.在子页面中获取Model|[点击前往](https://juejin.im/post/5b97fa0d5188255c5546dcf8)| Vadaski |
+|状态管理探索篇——Redux（二）|1.添加依赖 <br> 2.创建State <br> 3.创建action <br> 4.创建reducer <br> 5.创建store <br> 6.将Store放入顶层 <br> 7.在子页面中获取Store中的state <br> 8.发出action|[点击前往](https://juejin.im/post/5ba26c086fb9a05ce57697da)| Vadaski |
+|状态管理探索篇——BLoC(三)|1.创建BLoC <br> 2.创建BLoC实例 <br> 3.在页面中使用StreamBuilder |[点击前往](https://juejin.im/post/5bb6f344f265da0aa664d68a)| Vadaski |
+| 状态管理拓展篇——RxDart(四)|1.可观察对象——Observable <br> 2.增强版StreamController——Subject |[点击前往](https://juejin.im/post/5bcea438e51d4536c65d2232)| Vadaski |
+|Flutter  状态管理指南篇——Provider|1.What's the problem <br> 2.What is Provider <br> 3.How to do <br> 4.You also need to know <br> 5.Tips|[点击前往](https://juejin.im/post/5d00a84fe51d455a2f22023f)| Vadaski |
 |Flutter之旅:Dart的基础语法|1.Dart中常见数据类型一览 <br> 2.Dart中的变量与常量 <br> 3.运算符<br> 4.Dart中的函数<br> 5.Dart 流程控制 |[点击前往](https://juejin.im/post/5d1d614df265da1b971a9177)| 张风捷特烈 |
 |Flutter之旅：从源码赏析Dart面向对象|1.面向对象的条件 <br> 2.从Size一族开始说起 <br> 3.Dart中的接口与枚举 <br> 4.自定义向量类Vector2 |[点击前往](https://juejin.im/post/5d1ef5b66fb9a07ed7409d1e)| 张风捷特烈 |
 |Flutter之旅：Dart语法扫尾-包访问-泛型--异常-异步-mixin|1.其他常用符号与关键字 <br> 2.库的使用和可见性 <br> 3.泛型 <br> 4.异步操作简介 <br> 5.异常处理 <br> 6.Dart中的多继承|[点击前往](https://juejin.im/post/5d20090e5188251a966be7ca)| 张风捷特烈 |
