@@ -127,6 +127,11 @@
 |Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 |八种 Flutter 状态管理-深入评论|1.setState <br> 2.Function callback <br> 3.Delegate <br> 4.Sigslot <br> 5.pkg:scoped_model <br> 6.pkg:provide <br> 7.flutter-provide <br> 8.RxDart, Fish-Redux|[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 |Flutter - 使用Provider实现状态管理|1.搭建App的架构 <br> 2.使用Provider管理state <br> 3.和业务逻辑通信 <br> 4.创建核心业务逻辑 <br>.... |[点击前往](https://segmentfault.com/a/1190000022263763)| 小红星闪啊闪|
+|Flutter状态管理provider的使用和封装|1.provider <br> 2.ChangeNotifierProvider <br> 3.FutureProvider <br> 4.StreamProvider <br> 5.ValueListenableProvider <br> 6.ValueListenableProvider <br> 7.
+MultiProvider <br> 8.ProxyProvider |[点击前往](https://juejin.im/post/5ed3df5951882542fc624efb)| 
+艾维码 |
+|Flutter Provider状态管理-Consumer|1.引包 <br> 2.采用最简单的计数器代码来整合provider <br> 3.Cosumer|[点击前往](https://blog.csdn.net/u013894711/article/details/102782366)| autonomousjack|
+|Flutter Provider状态管理 - Selector|1.counter_provider.dart <br> 2.my_page.dart|[点击前往](https://blog.csdn.net/u013894711/article/details/102785532)| autonomousjack|
 <br>
 <br>
 <br>
@@ -234,6 +239,7 @@
 |Flutter 44: 图解矩阵变换 Transform 类 (一)|  | [点击前往](http://www.imooc.com/article/286667) |【动画】 |
 |AnimatedCrossFade|  | [点击前往](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html) |【动画】 |
 |Flutter “孔雀开屏”的动画效果|  | [点击前往](https://juejin.im/post/5eca5f7cf265da76f65305ae) |【动画】 |
+|A Deep Dive into the Flutter Animations package|  | [点击前往](https://medium.com/flutter-nyc/a-deep-dive-into-the-flutter-animations-package-3e26b10c43c1) |【动画】 |
 | -------------🔥地图🔥-------------| ------------- | - | --- |
 |Exploring Google Maps in Flutter|【科学上网】| [点击前往](https://medium.com/flutter-community/exploring-google-maps-in-flutter-8a86d3783d24) |【地图】 |
 |Flutter - Google map widget plugin example.|【科学上网】| [点击前往](https://www.developerlibs.com/2019/04/flutter-google-map-widget-plugin-example.html) |【地图】 |
