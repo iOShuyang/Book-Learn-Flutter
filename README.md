@@ -208,6 +208,7 @@ MultiProvider <br> 8.ProxyProvider |[点击前往](https://juejin.im/post/5ed3df
 |Flutter 69: 图解基本 Stepper 步进器|  | [点击前往](http://www.imooc.com/article/296348) |【控件】 |
 |Flutter系列之UI篇：文本显示——RichText|  | [点击前往](https://blog.csdn.net/jungle_pig/article/details/95069268) |【控件】 |
 |flutter组件 RefreshIndicator,Opacity,ClipOval,ClipRRect|  | [点击前往](https://blog.csdn.net/litter_lj/article/details/98876340) |【控件】 |
+|你知道吗，Flutter内置了10多种show|  | [点击前往](https://www.jianshu.com/p/1ed01d528858) |【控件】 |
 | -------------🔥WebView🔥-------------| ------------- | - | --- |
 |在 Flutter 中使用 WebView|  | [点击前往](https://www.jianshu.com/p/91b4c615b2b4) |【WebView】 |
 |Flutter插件之webview_flutter简要使用说明|  | [点击前往](https://blog.csdn.net/zhuang_jiaozhi/article/details/102703809) |【WebView】 |
@@ -347,6 +348,7 @@ MultiProvider <br> 8.ProxyProvider |[点击前往](https://juejin.im/post/5ed3df
 |Flutter开发实战 高仿微信（1）首页| |[点击前往](https://juejin.im/post/5ebdf7d96fb9a0432a3c4376)|
 |Flutter 10天高仿大厂App及小技巧积累总结| |[点击前往](https://juejin.im/post/5eba1772e51d454dea6fe280)|
 |【Flutter应用】Flutter精仿抖音开源| |[点击前往](https://segmentfault.com/a/1190000022697341)|
+| Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块| |[点击前往](https://github.com/huangruiLearn/flutter_hrlweibo)|
 |Flutter实现启动页、闪屏广告页、引导页| |[点击前往](https://www.jianshu.com/p/c80fca757bb2)|
 |Flutter异常监测与上报| |[点击前往](https://segmentfault.com/a/1190000022280728)|
 
@@ -362,6 +364,7 @@ MultiProvider <br> 8.ProxyProvider |[点击前往](https://juejin.im/post/5ed3df
 | --- | --- | --- |
 |Dart Packages| 查询三方库 | [点击前往](https://pub.dev) |
 |Flutter超全开源框架、项目和学习资料汇总| 👍👍👍👍👍 | [点击前往](https://www.jianshu.com/p/f5a4a28e2888) |
+|很棒的列表，精选了最好的Flutter库，工具，教程，文章等。| 👍👍👍👍👍 | [点击前往](https://github.com/Solido/awesome-flutter) |
 |Flutter部分插件 后续持续更新～点|  | [点击前往](https://www.jianshu.com/p/c78ef5cf7f6a) |
 |Flutter 一些常用库|  | [点击前往](https://www.cnblogs.com/yangyxd/p/9232308.html) |
 |Flutter常用插件|  | [点击前往](https://www.jianshu.com/p/028b9d4c65e3) |
