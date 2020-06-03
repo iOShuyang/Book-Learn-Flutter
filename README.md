@@ -127,9 +127,7 @@
 |Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 |八种 Flutter 状态管理-深入评论|1.setState <br> 2.Function callback <br> 3.Delegate <br> 4.Sigslot <br> 5.pkg:scoped_model <br> 6.pkg:provide <br> 7.flutter-provide <br> 8.RxDart, Fish-Redux|[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 |Flutter - 使用Provider实现状态管理|1.搭建App的架构 <br> 2.使用Provider管理state <br> 3.和业务逻辑通信 <br> 4.创建核心业务逻辑 <br>.... |[点击前往](https://segmentfault.com/a/1190000022263763)| 小红星闪啊闪|
-|Flutter状态管理provider的使用和封装|1.provider <br> 2.ChangeNotifierProvider <br> 3.FutureProvider <br> 4.StreamProvider <br> 5.ValueListenableProvider <br> 6.ValueListenableProvider <br> 7.
-MultiProvider <br> 8.ProxyProvider |[点击前往](https://juejin.im/post/5ed3df5951882542fc624efb)| 
-艾维码 |
+|Flutter状态管理provider的使用和封装|1.provider <br> 2.ChangeNotifierProvider <br> 3.FutureProvider <br> 4.StreamProvider <br> 5.ValueListenableProvider <br> 6.ValueListenableProvider <br> 7.MultiProvider <br> 8.ProxyProvider |[点击前往](https://juejin.im/post/5ed3df5951882542fc624efb)| 艾维码 |
 |Flutter Provider状态管理-Consumer|1.引包 <br> 2.采用最简单的计数器代码来整合provider <br> 3.Cosumer|[点击前往](https://blog.csdn.net/u013894711/article/details/102782366)| autonomousjack|
 |Flutter Provider状态管理 - Selector|1.counter_provider.dart <br> 2.my_page.dart|[点击前往](https://blog.csdn.net/u013894711/article/details/102785532)| autonomousjack|
 <br>
