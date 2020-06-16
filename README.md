@@ -123,13 +123,15 @@
 |还在写iOS？是时候学一下Flutter了|1.Widget与UIView <br> 2.如何对Widget布局 <br> 3.如何从布局中添加或者删除一个组件 <br> 4.如何设置Widget 动画<br> 5.如何绘制到屏幕上<br> 6.widget的透明度在<br> 7.如何实现自定义widget<br> 8.导航|[点击前往](https://juejin.im/post/5ce20dec5188250f9d5d505a#heading-9)| RiverLi |
 |Flutter布局详解，必知必会|1.线性布局Row和Column <br> 2.弹性布局Flex <br> 3.流式布局Wrap、Flow <br> 4.层叠布局Stack、Positioned<br> |[点击前往](https://juejin.im/post/5c2458d6f265da613a541349)| 升级之路 |
 |用Flutter构建漂亮的UI界面 - 基础组件篇|1.前言 <br> 2.基础组件 <br> 3.布局实战 <br> 4.总结<br> |[点击前往](https://www.jianshu.com/p/d20bb417cd70)| 小石头若海 |
+| Flutter框架分析（三）-- Widget，Element和RenderObject | 1.Widget <br> 2.Element <br> 3.RenderObject | [点击前往](https://www.jianshu.com/p/988011994c22) | |
 |--------------|-------------|-|-------------|
-|Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
+|Flutter 状态管理之 Provider|1.单个 Provider 的情况 <br> 2.使用 MultiProvider 管理多个共享数据类 |[点击前往](https://www.jianshu.com/p/988011994c22)| mclzone |
 |八种 Flutter 状态管理-深入评论|1.setState <br> 2.Function callback <br> 3.Delegate <br> 4.Sigslot <br> 5.pkg:scoped_model <br> 6.pkg:provide <br> 7.flutter-provide <br> 8.RxDart, Fish-Redux|[点击前往](https://juejin.im/post/5cdee8a151882525b21a5f9e)| mclzone |
 |Flutter - 使用Provider实现状态管理|1.搭建App的架构 <br> 2.使用Provider管理state <br> 3.和业务逻辑通信 <br> 4.创建核心业务逻辑 <br>.... |[点击前往](https://segmentfault.com/a/1190000022263763)| 小红星闪啊闪|
 |Flutter状态管理provider的使用和封装|1.provider <br> 2.ChangeNotifierProvider <br> 3.FutureProvider <br> 4.StreamProvider <br> 5.ValueListenableProvider <br> 6.ValueListenableProvider <br> 7.MultiProvider <br> 8.ProxyProvider |[点击前往](https://juejin.im/post/5ed3df5951882542fc624efb)| 艾维码 |
 |Flutter Provider状态管理-Consumer|1.引包 <br> 2.采用最简单的计数器代码来整合provider <br> 3.Cosumer|[点击前往](https://blog.csdn.net/u013894711/article/details/102782366)| autonomousjack|
 |Flutter Provider状态管理 - Selector|1.counter_provider.dart <br> 2.my_page.dart|[点击前往](https://blog.csdn.net/u013894711/article/details/102785532)| autonomousjack|
+|Flutter局部刷新|1.通过provider刷新 <br> 2.StreamBuilder实现局部刷新|[点击前往](https://blog.csdn.net/sjdjdjdjahd/article/details/103457385)| autonomousjack|
 <br>
 <br>
 <br>
@@ -300,6 +302,7 @@
 | 项目实战 | 备注信息 | 网址 |
 | --- | --- | --- |
 | Flutter 性能优化实践 总结 | 👍👍👍👍👍 | [点击前往](https://juejin.im/post/5dfc64526fb9a01601169c28) |
+| Flutter 性能优化 Tips |  | [点击前往](https://www.codercto.com/a/45482.html) |
 | Flutter性能优化实践 —— UI篇 |  | [点击前往](https://juejin.im/post/5eb8c4ade51d454da43e224b) |
 | Flutter实战详解--高仿好奇心日报 |  | [点击前往](https://juejin.im/post/5c31f7236fb9a04a04412d0b) |
 |Flutter知乎App实践：UI+Json+Utils|| [点击前往](https://juejin.im/post/5c5014a6518825260d7ef89a) |
@@ -480,6 +483,7 @@
 |Flutter中setState导致的内存泄漏——setState() called after dispose() ||[点击前往](https://blog.csdn.net/qq_26287435/article/details/89674247) |
 |flutter 打android-arm64平台 ||[点击前往](https://blog.csdn.net/dalong3976/article/details/94736506) |
 |flutter调出键盘报错溢出异常：bottom overflowed by 104 PIXELS ||[点击前往](https://blog.csdn.net/wo541075754/article/details/86145870) |
+|url_launcher macos not found. Please update settings.gradle ||[点击前往](https://github.com/flutter/flutter/issues/55077) |
 
 <br>
 <br>
