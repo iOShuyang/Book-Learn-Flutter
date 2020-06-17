@@ -11,7 +11,7 @@
 <span id="back"></span>
 
 ### <div align=center>[1.基础知识](#1) 
-### <div align=center>[2.基础细节](#2)
+### <div align=center>[2.基础控件](#2)
 ### <div align=center>[2.基础语法](#3)
 ### <div align=center>[3.项目实战](#4) 
 ### <div align=center>[4.三方插件](#5) 
@@ -137,7 +137,7 @@
 <br>
 
 <span id="2"></span>
-## <div align=center>-------------------------[基础细节](#back)-------------------------</div>
+## <div align=center>-------------------------[基础控件](#back)-------------------------</div>
 
 | 基础细节 | 备注信息 | 网址 | 分类 |
 | --- | --- | --- | --- |
