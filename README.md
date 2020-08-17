@@ -168,6 +168,7 @@
 | Flutter在Ios中实现极光推送 |  | [点击前往](http://bbs.itying.com/topic/5d70a5382a95ee138cf28d2e) |【框架】 |
 | Flutter国际化的三种方式-->intl |  | [点击前往](https://www.jianshu.com/p/6ca24dd50c57) |【框架】 |
 | Flutter - International 国际化，Localization 本地化， 使用Intl |  | [点击前往](http://ddrv.cn/a/154389) |【框架】 |
+| Flutter底部tab切换保持页面状态的几种方法 |  | [点击前往](https://cloud.tencent.com/developer/article/1507094) |【框架】 |
 | -------------🔥控件🔥-------------| ------------- | - | --- |
 |Flutter学习笔记1-Widgets划分|| [点击前往](https://www.jianshu.com/p/febadddaf306) |【控件】 |
 |Flutter之MaterialApp使用详解|| [点击前往](https://cloud.tencent.com/developer/article/1337184) |【控件】 |
@@ -452,6 +453,12 @@
 | firebase_dynamic_links | A Flutter plugin to use the Google Dynamic Links for Firebase API. | [点击前往](https://pub.flutter-io.cn/packages/firebase_dynamic_links) |
 | FRefresh | 刷新控件（在过去一段时间中，我们已经先后向社区开放了 5 实用精美的 Widget （ FSuper 、 FButton 、 FSwitch 、 FRadio 、 FFloat ），帮助开发者们更易构建出赏心悦目的应用。） | [点击前往](https://juejin.im/post/5ec6a1c1f265da771066c50a) |
 | flutter_custom_calendar | Flutter的一个日历控件 | [点击前往](https://github.com/fluttercandies/flutter_custom_calendar) |
+| scrollable_positioned_list | A ScrollablePositionedList works much like the builder version of ListView except that the list can be scrolled or jumped to a specific item. | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/scrollable_positioned_list) |
+| core_card_io | 银行卡扫描 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/core_card_io) |
+| card_scanner | 银行卡扫描 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/card_scanner) |
+| credit_card_number_validator | 银行卡卡号验证 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/credit_card_number_validator) |
+| flutter_credit_card | 银行卡输入 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/flutter_credit_card) |
+| nine_grid_view | 类似微博动态，微信朋友圈，展示图片的九宫格控件。支持单张大图预览。同时也支持微信群组，钉钉群组，QQ讨论组头像效果。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/nine_grid_view) |
 <br>
 <br>
 <br>
