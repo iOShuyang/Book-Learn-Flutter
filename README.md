@@ -292,7 +292,7 @@
 | Flutter Stream简介及部分操作符使用 |  | [点击前往](https://www.haowuliaoa.com/article/info/563717.html) |
 | Stream in Dart |  | [点击前往](https://www.jianshu.com/p/1bd3bca98465) |
 | Flutter嵌套深？扩展函数了解一下 |  | [点击前往](https://juejin.im/post/5e086b8c6fb9a0160116a90d) |
-
+| Dart-计算哈希摘要（MD5，SHA1，SHA256，SHA512等） |  | [点击前往](https://www.woolha.com/tutorials/dart-calculate-hash-digest-examples) |
 <br>
 <br>
 <br>
@@ -459,6 +459,10 @@
 | credit_card_number_validator | 银行卡卡号验证 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/credit_card_number_validator) |
 | flutter_credit_card | 银行卡输入 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/flutter_credit_card) |
 | nine_grid_view | 类似微博动态，微信朋友圈，展示图片的九宫格控件。支持单张大图预览。同时也支持微信群组，钉钉群组，QQ讨论组头像效果。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/nine_grid_view) |
+| nine_grid_view | 类似微博动态，微信朋友圈，展示图片的九宫格控件。支持单张大图预览。同时也支持微信群组，钉钉群组，QQ讨论组头像效果。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/nine_grid_view) |
+| encrypt | 一组PointyCastle上的高级API，用于双向加密。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/encrypt) |
+| cryptography | 用于加密，数字签名，密钥协商，身份验证和哈希的加密算法。 AES，Chacha20，ED25519，X25519等。 Web加密支持。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/cryptography) |
+| crypto | SHA，MD5和HMAC加密功能的实现。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/crypto) |
 <br>
 <br>
 <br>
