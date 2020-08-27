@@ -152,6 +152,8 @@
 |Flutter - 加载网络图片的几种方式| | [点击前往](https://www.jianshu.com/p/63d1a4b36e15) |【图片】 |
 |Flutter Image 本地&网络图片、圆形图片、CachedNetworkImage Widget 和 FadeInImage Widget|  | [点击前往](http://www.ptbird.cn/flutter-image-cachednetworkimage-fadeinimage.html) |【图片】 |
 |Flutter 中的图文混排与原理解析| | [点击前往](https://juejin.im/post/5e68b6ae6fb9a07cdb468722) |【图片】 |
+|flutter 保存图片到本地| | [点击前往](https://www.jianshu.com/p/5b14ed98d8bd) |【图片】 |
+|flutter 保存图片| | [点击前往](https://blog.csdn.net/isusjjyy/article/details/102800128) |【图片】 |
 | -------------🔥框架🔥-------------| ------------- | - | --- |
 |根据一个完整项目学习Flutter—1、使用主题共享颜色和字体样式(ThemeData)|| [点击前往](https://www.jianshu.com/p/7929e90a19d4) |【框架】 |
 |Flutter：Theme|| [点击前往](https://www.jianshu.com/p/059c5794b29c) |【框架】 |
@@ -230,6 +232,7 @@
 | 初学Flutter基础：关于InheritedWidget的理解 |  | [点击前往](https://blog.csdn.net/XG1057415595/article/details/86761702) |【常识】 |
 |说说Flutter中的RepaintBoundary|  | [点击前往](https://juejin.im/post/5deda528f265da339f7ce93c) |【常识】 |
 |Flutter的四种运行模式：Debug、Release、Profile和test|  | [点击前往](https://www.jianshu.com/p/4db65478aaa3) |【常识】 |
+|Flutter给iOS数字键盘增加完成按钮|  | [点击前往](https://juejin.im/post/6861843631620718599) |【常识】 |
 | -------------🔥动画🔥-------------| ------------- | - | --- |
 |Flutter 入门指北(Part 10)之手势处理和动画| | [点击前往](https://juejin.im/post/5cb340af6fb9a068b748ab6e) |【动画】 |
 |Flutter知识点: Animation|  | [点击前往](https://www.jianshu.com/p/32fee75d9e70) |【动画】 |
@@ -463,6 +466,9 @@
 | encrypt | 一组PointyCastle上的高级API，用于双向加密。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/encrypt) |
 | cryptography | 用于加密，数字签名，密钥协商，身份验证和哈希的加密算法。 AES，Chacha20，ED25519，X25519等。 Web加密支持。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/cryptography) |
 | crypto | SHA，MD5和HMAC加密功能的实现。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/crypto) |
+| flutter_shimmer | 它会创建指示加载状态的Shimmer效果，因此请使用Shimmer以获得更好的设计和用户界面，而不是使用ProgressBar或通常的加载器。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/flutter_shimmer) |
+| pattern_formatter | 提供了TextInputFormatter的一些实现，这些实现使用预定义的模式来格式化输入。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/pattern_formatter) |
+| image_gallery_saver | 用于将图像保存到图库，iOS需要向您的Info.plist文件添加以下密钥。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/image_gallery_saver) |
 <br>
 <br>
 <br>
