@@ -233,6 +233,8 @@
 |说说Flutter中的RepaintBoundary|  | [点击前往](https://juejin.im/post/5deda528f265da339f7ce93c) |【常识】 |
 |Flutter的四种运行模式：Debug、Release、Profile和test|  | [点击前往](https://www.jianshu.com/p/4db65478aaa3) |【常识】 |
 |Flutter给iOS数字键盘增加完成按钮|  | [点击前往](https://juejin.im/post/6861843631620718599) |【常识】 |
+| -------------🔥绘制🔥-------------| ------------- | - | --- |
+|flutter 用 CustomPaint 绘制自定义图案|  | [点击前往](https://learnku.com/articles/31324) |【绘制】 |
 | -------------🔥动画🔥-------------| ------------- | - | --- |
 |Flutter 入门指北(Part 10)之手势处理和动画| | [点击前往](https://juejin.im/post/5cb340af6fb9a068b748ab6e) |【动画】 |
 |Flutter知识点: Animation|  | [点击前往](https://www.jianshu.com/p/32fee75d9e70) |【动画】 |
@@ -245,6 +247,7 @@
 |AnimatedCrossFade|  | [点击前往](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html) |【动画】 |
 |Flutter “孔雀开屏”的动画效果|  | [点击前往](https://juejin.im/post/5eca5f7cf265da76f65305ae) |【动画】 |
 |A Deep Dive into the Flutter Animations package|  | [点击前往](https://medium.com/flutter-nyc/a-deep-dive-into-the-flutter-animations-package-3e26b10c43c1) |【动画】 |
+|Flutter(Flare) 最有趣用户交互动画没有之一|  | [点击前往](https://segmentfault.com/a/1190000023090234) |【动画】 |
 | -------------🔥地图🔥-------------| ------------- | - | --- |
 |Exploring Google Maps in Flutter|【科学上网】| [点击前往](https://medium.com/flutter-community/exploring-google-maps-in-flutter-8a86d3783d24) |【地图】 |
 |Flutter - Google map widget plugin example.|【科学上网】| [点击前往](https://www.developerlibs.com/2019/04/flutter-google-map-widget-plugin-example.html) |【地图】 |
@@ -261,6 +264,8 @@
 | -------------🔥拓展🔥-------------| ------------- | - | --- |
 |Flutter实战：手把手教你写Flutter Plugin|| [点击前往](https://www.jianshu.com/p/c38dd2efa64a) |【拓展】 |
 |告别手写，自动生成Flutter/Dart实体类|| [点击前往](https://blog.csdn.net/laxian2009/article/details/83594253) |【拓展】 |
+| -------------🔥技巧效率🔥-------------| ------------- | - | --- |
+|Flutter快捷键(Mac & Android Studio)|| [点击前往](https://www.jianshu.com/p/7cff367dbdde) |【效率】 |
 
 <br>
 <br>
@@ -469,6 +474,7 @@
 | flutter_shimmer | 它会创建指示加载状态的Shimmer效果，因此请使用Shimmer以获得更好的设计和用户界面，而不是使用ProgressBar或通常的加载器。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/flutter_shimmer) |
 | pattern_formatter | 提供了TextInputFormatter的一些实现，这些实现使用预定义的模式来格式化输入。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/pattern_formatter) |
 | image_gallery_saver | 用于将图像保存到图库，iOS需要向您的Info.plist文件添加以下密钥。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/image_gallery_saver) |
+| flare_flutter | 动画动效。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/flare_flutter) |
 <br>
 <br>
 <br>
@@ -515,8 +521,9 @@
 | Flutter 面试知识点集锦 | 2019.05.14 |[点击前往](https://www.jianshu.com/p/5a0df9b4e817) |
 | Flutter 一些面试可能会问基础知识 |  |[点击前往](https://www.cnblogs.com/yangyxd/p/10449614.html) |
 | Flutter 金九银十招聘季，这些面试题祝你一臂之力 | 2019.10.14 |[点击前往](http://www.imooc.com/article/293455) |
-|可以算是Flutter面试凉凉经吧|2019.02.16|[点击前往](https://juejin.im/post/5c67d621518825620a7f133e)| 面试题 |
-|Android-Flutter面经 |2020.04.24|[点击前往](https://juejin.im/post/5ea2ab266fb9a03c82234a9f)| 面试题 |
+|可以算是Flutter面试凉凉经吧|2019.02.16|[点击前往](https://juejin.im/post/5c67d621518825620a7f133e)|
+|Android-Flutter面经 |2020.04.24|[点击前往](https://juejin.im/post/5ea2ab266fb9a03c82234a9f)|
+|flutter面试题 |2020.07.13|[点击前往](https://www.jianshu.com/p/60a41d787191)|
 <br>
 <br>
 <br>
