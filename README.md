@@ -113,6 +113,13 @@
 | Flutter趣玩篇- 出神入化的Align+动画|1.代码实现 <br> 2.简单封装|[点击前往](https://juejin.im/post/5d8d78f7f265da5ba3082f60)| 张风捷特烈 |
 | Flutter-技能篇 - 使用Provider前你应了解Consumer|1.一把梭 <br> 2.Consumer来帮忙 <br> 3.Consumer做了什么|[点击前往](https://juejin.im/post/5daa928551882529d1528d0c)| 张风捷特烈 |
 | Flutter 状态篇 - 主题色切换+国际化 三连|1.provoder实现主题切换和国际化:provider: ^03.1.0+1 <br> 2.redux实现主题切换和国际化:flutter_redux: ^0.5.3 <br> 3.BLoC实现主题切换和国际化:flutter_bloc: ^0.22.1|[点击前往](https://juejin.im/post/5daa928551882529d1528d0c)| 张风捷特烈 |
+| Dart语法篇之基础语法(一)|1.Hello Dart <br> 2.数据类型 <br> 3.变量和常量 <br> 4.集合(List、Set、Map) <br> 5.流程控制 <br> 6.运算符 <br> 7.异常 <br> 8.函数 <br> 9.面向对象|[点击前往](https://zhuanlan.zhihu.com/p/88728224)| 极客熊猫 |
+| Dart语法篇之集合的使用与源码解析(二)|1.List <br> 2.Set <br> 3.Map <br> 4.Queue <br> 5.LinkedList <br> 6.HashMap <br> 7.Map、HashMap、LinkedHashMap、SplayTreeMap区别 <br> 8.命名构造函数from和of的区别以及使用建议 |[点击前往](https://zhuanlan.zhihu.com/p/89392018)| 极客熊猫 |
+| Dart语法篇之集合操作符函数与源码分析(三)|1.Iterable<E> <br> 2.forEach <br> 3.map <br> 4.any <br> 5.every <br> 6.where <br> 7.firstWhere和singleWhere和lastWhere <br> 8.join <br> 9.take <br> 10.takeWhile<br> 11.skip <br> 12.skipWhile <br> 13.follwedBy <br> 14.expand <br> 15.reduce/fold <br> 16.elementAt|[点击前往](https://zhuanlan.zhihu.com/p/90373910)| 极客熊猫 |
+| Dart语法篇之函数的使用(四)|1.函数参数 <br> 2.匿名函数(闭包，lambda) <br> 3.箭头函数 <br> 4.局部函数 <br> 5.顶层函数和静态函数 <br> 6.main函数 <br> 7.Function函数对象 |[点击前往](https://zhuanlan.zhihu.com/p/90785284)| 极客熊猫 |
+| Dart语法篇之面向对象基础(五)|1.属性访问器(accessor)函数setter和getter <br> 2.面向对象中的变量 <br> 3.构造函数 <br> 4.抽象方法、抽象类和接口 <br> 5.类函数 |[点击前往](https://zhuanlan.zhihu.com/p/91352361)| 极客熊猫 |
+| Dart语法篇之面向对象继承和Mixins(六) |1.类的单继承 <br> 2.基于Mixins的多继承 |[点击前往](https://zhuanlan.zhihu.com/p/91883129)| 极客熊猫 |
+| Dart语法篇之类型系统与泛型(七) |1.可选类型 <br> 2.接口类型 <br> 3.泛型 <br> 4.类型具体化|[点击前往](https://zhuanlan.zhihu.com/p/93671943)| 极客熊猫 |
 |--------------|-------------|-|-------------|
 | Flutter试用报告 | 1.Flutter 为何使用Dart开发语言 <br> 2.Flutter的UI系统 <br> 3.Flutter与Native的交融 | [点击前往](https://juejin.im/post/5c64cc2d518825626b76d7a5) | |
 |Flutter调试技巧总结——高效开发的秘密|我将自己遇到的错误类型归 语法和代码错误 、 运行时错误 和 逻辑错误 三大类，同时还从官方文档总结了 界面调试 的技巧，分享给大家。|[点击前往](https://juejin.im/post/5bb9b8a75188255c791b1984)| |
