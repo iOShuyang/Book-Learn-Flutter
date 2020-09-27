@@ -120,6 +120,8 @@
 | Dart语法篇之面向对象基础(五)|1.属性访问器(accessor)函数setter和getter <br> 2.面向对象中的变量 <br> 3.构造函数 <br> 4.抽象方法、抽象类和接口 <br> 5.类函数 |[点击前往](https://zhuanlan.zhihu.com/p/91352361)| 极客熊猫 |
 | Dart语法篇之面向对象继承和Mixins(六) |1.类的单继承 <br> 2.基于Mixins的多继承 |[点击前往](https://zhuanlan.zhihu.com/p/91883129)| 极客熊猫 |
 | Dart语法篇之类型系统与泛型(七) |1.可选类型 <br> 2.接口类型 <br> 3.泛型 <br> 4.类型具体化|[点击前往](https://zhuanlan.zhihu.com/p/93671943)| 极客熊猫 |
+| Flutter  老孟 |1.组件 <br> 2.实战 <br> 3.精彩文章 <br> 4.插件|[点击前往](http://laomengit.com)| 老孟Flutter   |
+| 【Flutter 实战】大量复杂数据持久化 |1.添加依赖 <br> 2.单例模式创建 SQLite 访问 <br> 3.初始化数据库 <br> 4.保存数据 <br> 5.查询数据 <br> 6.更新数据 <br> 7.删除数据 |[点击前往](https://juejin.im/post/6876023842070855687)| 老孟Flutter   |
 |--------------|-------------|-|-------------|
 | Flutter试用报告 | 1.Flutter 为何使用Dart开发语言 <br> 2.Flutter的UI系统 <br> 3.Flutter与Native的交融 | [点击前往](https://juejin.im/post/5c64cc2d518825626b76d7a5) | |
 |Flutter调试技巧总结——高效开发的秘密|我将自己遇到的错误类型归 语法和代码错误 、 运行时错误 和 逻辑错误 三大类，同时还从官方文档总结了 界面调试 的技巧，分享给大家。|[点击前往](https://juejin.im/post/5bb9b8a75188255c791b1984)| |
@@ -308,6 +310,7 @@
 | Stream in Dart |  | [点击前往](https://www.jianshu.com/p/1bd3bca98465) |
 | Flutter嵌套深？扩展函数了解一下 |  | [点击前往](https://juejin.im/post/5e086b8c6fb9a0160116a90d) |
 | Dart-计算哈希摘要（MD5，SHA1，SHA256，SHA512等） |  | [点击前往](https://www.woolha.com/tutorials/dart-calculate-hash-digest-examples) |
+| Dart tips for Flutter | 本文翻译自 Code With Andrea 的一个名为 《Dart & Flutter Easy Wins》的文章集，主要分享一些 Dart for Flutter 语言层面上的小技巧。这些技巧能够帮助大家写出精简、高效、符合 Google 标准的代码，会不定期更新。| [点击前往](https://juejin.im/post/6875645074068865031) |
 <br>
 <br>
 <br>
