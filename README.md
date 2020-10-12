@@ -311,6 +311,7 @@
 | Flutter嵌套深？扩展函数了解一下 |  | [点击前往](https://juejin.im/post/5e086b8c6fb9a0160116a90d) |
 | Dart-计算哈希摘要（MD5，SHA1，SHA256，SHA512等） |  | [点击前往](https://www.woolha.com/tutorials/dart-calculate-hash-digest-examples) |
 | Dart tips for Flutter | 本文翻译自 Code With Andrea 的一个名为 《Dart & Flutter Easy Wins》的文章集，主要分享一些 Dart for Flutter 语言层面上的小技巧。这些技巧能够帮助大家写出精简、高效、符合 Google 标准的代码，会不定期更新。| [点击前往](https://juejin.im/post/6875645074068865031) |
+| Stripe Payment In Flutter |  | [点击前往](https://medium.com/flutterdevs/stripe-payment-in-flutter-d7f87f9a193c) |
 <br>
 <br>
 <br>
@@ -485,6 +486,7 @@
 | pattern_formatter | 提供了TextInputFormatter的一些实现，这些实现使用预定义的模式来格式化输入。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/pattern_formatter) |
 | image_gallery_saver | 用于将图像保存到图库，iOS需要向您的Info.plist文件添加以下密钥。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/image_gallery_saver) |
 | flare_flutter | 动画动效。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/flare_flutter) |
+| flutter_launcher_icons | 一个软件包，简化了更新Flutter应用程序的启动器图标的任务。 | [点击前往](https://pub.dev/packages/flutter_launcher_icons) |
 <br>
 <br>
 <br>
@@ -517,7 +519,10 @@
 |flutter 打android-arm64平台 ||[点击前往](https://blog.csdn.net/dalong3976/article/details/94736506) |
 |flutter调出键盘报错溢出异常：bottom overflowed by 104 PIXELS ||[点击前往](https://blog.csdn.net/wo541075754/article/details/86145870) |
 |url_launcher macos not found. Please update settings.gradle ||[点击前往](https://github.com/flutter/flutter/issues/55077) |
-
+|MAC OS 下使用Android Studio获取开发版和发布版SHA1证书 ||[点击前往](https://lgdsunday.blog.csdn.net/article/details/49741543) |
+|Android Studio 打包、生成jks密钥、签名Apk、多渠道打包 ||[点击前往](https://blog.csdn.net/yy1300326388/article/details/48344411) |
+|flutter_launcher_icons 自动生成应用图标的工具 ||[点击前往](https://blog.csdn.net/zhutao_java/article/details/103605526) |
+|Flutter应用图标自适应方案：标准规范自动圆角不变形 ||[点击前往](https://www.uedbox.com/post/66040/) |
 <br>
 <br>
 <br>
