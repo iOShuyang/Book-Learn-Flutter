@@ -369,6 +369,8 @@
 |Flutter开发实战 高仿微信（1）首页| |[点击前往](https://juejin.im/post/5ebdf7d96fb9a0432a3c4376)|
 |Flutter 10天高仿大厂App及小技巧积累总结| |[点击前往](https://juejin.im/post/5eba1772e51d454dea6fe280)|
 |【Flutter应用】Flutter精仿抖音开源| |[点击前往](https://segmentfault.com/a/1190000022697341)|
+| 简单独立的App示例 | |[点击前往](https://github.com/nisrulz/flutter-examples)|
+| 一个展示Flutter组件的应用，并提供源代码视图 | |[点击前往](https://github.com/X-Wei/flutter_catalog)|
 | Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块| |[点击前往](https://github.com/huangruiLearn/flutter_hrlweibo)|
 |Flutter实现启动页、闪屏广告页、引导页| |[点击前往](https://www.jianshu.com/p/c80fca757bb2)|
 |Flutter异常监测与上报| |[点击前往](https://segmentfault.com/a/1190000022280728)|
@@ -487,6 +489,22 @@
 | image_gallery_saver | 用于将图像保存到图库，iOS需要向您的Info.plist文件添加以下密钥。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/image_gallery_saver) |
 | flare_flutter | 动画动效。 | [点击前往](https://dart-pub.mirrors.sjtug.sjtu.edu.cn/packages/flare_flutter) |
 | flutter_launcher_icons | 一个软件包，简化了更新Flutter应用程序的启动器图标的任务。 | [点击前往](https://pub.dev/packages/flutter_launcher_icons) |
+| flutter_staggered_grid_view | 一个用于Flutter上的交错网格视图组件，支持多列不同大小的行。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_staggered_grid_view) |
+| contact_picker |  选择联系人插件。 | [点击前往](https://pub.flutter-io.cn/packages/contact_picker) |
+| flutter_flip_panel |  带内置动画的翻转面板。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_flip_panel) |
+| flushbar | 高度可配置的Snackbar。 | [点击前往](https://pub.flutter-io.cn/packages/flushbar) |
+| flutter_typeahead | 在用户输入时向用户显示叠加建议。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_typeahead) |
+| flutter_snaplist | 创建snappable列表视图。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_snaplist) |
+| folding_cell | 折叠小部件。 | [点击前往](https://pub.flutter-io.cn/packages/folding_cell) |
+| liquid_pull_to_refresh | 一个漂亮并支持自定义的刷新指示器。 | [点击前往](https://pub.flutter-io.cn/packages/liquid_pull_to_refresh) |
+| direct-select-flutter | 带有灵巧的全屏模式弹出窗口的选择小部件。 | [点击前往](https://pub.flutter-io.cn/packages/direct-select-flutter) |
+| before_after | 漂亮的滑块，可以更轻松地显示两个图像之间的差异。 | [点击前往](https://pub.flutter-io.cn/packages/before_after) |
+| scratcher |  刮刮卡小部件可临时向用户隐藏内容。 | [点击前往](https://pub.flutter-io.cn/packages/scratcher) |
+| flutter_beautiful_popup | 承包你的应用弹窗。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_beautiful_popup) |
+| credit_card_input_form | 带有动画的表单输入插件。 | [点击前往](https://pub.flutter-io.cn/packages/credit_card_input_form) |
+| animated_selection_slide | 滑动动画选择小部件。 | [点击前往](https://pub.flutter-io.cn/packages/animated_selection_slide) |
+| flutter_neumorphic | 随时可用🕶️暗模式的Flutter使用Neumorphic套件。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_neumorphic) |
+| flutter_dough |  柔和的用户界面的小部件。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_dough) |
 <br>
 <br>
 <br>
