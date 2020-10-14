@@ -505,6 +505,17 @@
 | animated_selection_slide | 滑动动画选择小部件。 | [点击前往](https://pub.flutter-io.cn/packages/animated_selection_slide) |
 | flutter_neumorphic | 随时可用🕶️暗模式的Flutter使用Neumorphic套件。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_neumorphic) |
 | flutter_dough |  柔和的用户界面的小部件。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_dough) |
+| flutter_inner_drawer |  创建内部抽屉（左/右）的简单方法，您可以在其中输入列表菜单。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_inner_drawer) |
+| hidden_drawer_menu |  漂亮的抽屉模式菜单功能带有透视动画。 | [点击前往](https://pub.flutter-io.cn/packages/hidden_drawer_menu) |
+| fancy_bottom_navigation | 动画底部导航。 | [点击前往](https://pub.flutter-io.cn/packages/fancy_bottom_navigation) |
+| circular_bottom_navigation | 漂亮的动画底部导航栏。 | [点击前往](https://pub.flutter-io.cn/packages/circular_bottom_navigation) |
+| bottom_navy_bar | 美丽多彩的动画底部导航栏。 | [点击前往](https://pub.flutter-io.cn/packages/bottom_navy_bar) |
+| rubber | 弹性材料设计的底部表单。 | [点击前往](https://pub.flutter-io.cn/packages/rubber) |
+| modal_bottom_sheet | 带材料设计，Cupertino iOS 13或自定义外观的模态底部表单。 | [点击前往](https://pub.flutter-io.cn/packages/modal_bottom_sheet) |
+| reorderables | 拖放表格，行，列，Wrap（Grid）和SliverList元素。 | [点击前往](https://pub.flutter-io.cn/packages/reorderables) |
+| flutter_offline | 整洁的实用程序，以处理离线/在线连接。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_offline) |
+| inview_notifier_list | 当区块展示在屏幕可视区域时带有通知的ListView。 | [点击前往](https://pub.flutter-io.cn/packages/inview_notifier_list) |
+| flutter_showcaseview | 在iOS和Android上展示您的应用功能的方法。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_showcaseview) |
 <br>
 <br>
 <br>
