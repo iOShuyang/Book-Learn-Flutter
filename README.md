@@ -516,6 +516,12 @@
 | flutter_offline | 整洁的实用程序，以处理离线/在线连接。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_offline) |
 | inview_notifier_list | 当区块展示在屏幕可视区域时带有通知的ListView。 | [点击前往](https://pub.flutter-io.cn/packages/inview_notifier_list) |
 | flutter_showcaseview | 在iOS和Android上展示您的应用功能的方法。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_showcaseview) |
+| flutter_material_pickers | 用于轻松一致地显示物料主题选择器对话框。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_material_pickers) |
+| flutter_slidable | 实现的可滑动列表项，具有可被取消的定向滑动动作。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_slidable) |
+| transformer_page_view | 在Flutter中具有PageView转换效果的示例。 | [点击前往](https://pub.flutter-io.cn/packages/transformer_page_view) |
+| wave | 以自定义颜色，持续时间，浮动和模糊效果显示一些波形。 | [点击前往](https://pub.flutter-io.cn/packages/wave) |
+| liquid_swipe | 液体轻扫至堆积的容器。 | [点击前往](https://pub.flutter-io.cn/packages/liquid_swipe) |
+| photofilters | 用于将各种类型的滤镜应用于图像。 | [点击前往](https://pub.flutter-io.cn/packages/photofilters) |
 <br>
 <br>
 <br>
