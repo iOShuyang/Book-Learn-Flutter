@@ -522,6 +522,15 @@
 | wave | 以自定义颜色，持续时间，浮动和模糊效果显示一些波形。 | [点击前往](https://pub.flutter-io.cn/packages/wave) |
 | liquid_swipe | 液体轻扫至堆积的容器。 | [点击前往](https://pub.flutter-io.cn/packages/liquid_swipe) |
 | photofilters | 用于将各种类型的滤镜应用于图像。 | [点击前往](https://pub.flutter-io.cn/packages/photofilters) |
+| flutter_calendar_carousel | 日历轮播。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_calendar_carousel) |
+| table_calendar | 日历整齐地组织成表格，并具有垂直自动调整大小。 | [点击前往](https://pub.flutter-io.cn/packages/table_calendar) |
+| some_calendar | 多选和范围可配置的日历。 | [点击前往](https://pub.flutter-io.cn/packages/some_calendar) |
+| flutter_login | 从头到尾具有动画效果的登录小部件。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_login) |
+| parallax_image |  带有滑动视差效果的Image 组件。 | [点击前往](https://pub.flutter-io.cn/packages/parallax_image) |
+| photo_view |  简单的可缩放的Image组件。 | [点击前往](https://pub.flutter-io.cn/packages/photo_view) |
+| flutter_svg |  支持SVG 解析和渲染的库。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_svg) |
+| flutter_image_cropper |  图片裁切库，支持旋转，缩放，以及按照比例裁切。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_image_cropper) |
+| multi_image_picker |  显示多图像选择器。 | [点击前往](https://pub.flutter-io.cn/packages/multi_image_picker) |
 <br>
 <br>
 <br>
