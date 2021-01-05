@@ -141,6 +141,7 @@
 |Flutter Provider状态管理-Consumer|1.引包 <br> 2.采用最简单的计数器代码来整合provider <br> 3.Cosumer|[点击前往](https://blog.csdn.net/u013894711/article/details/102782366)| autonomousjack|
 |Flutter Provider状态管理 - Selector|1.counter_provider.dart <br> 2.my_page.dart|[点击前往](https://blog.csdn.net/u013894711/article/details/102785532)| autonomousjack|
 |Flutter局部刷新|1.通过provider刷新 <br> 2.StreamBuilder实现局部刷新|[点击前往](https://blog.csdn.net/sjdjdjdjahd/article/details/103457385)| autonomousjack|
+
 <br>
 <br>
 <br>
@@ -175,11 +176,13 @@
 |Flutter(二十一)——dio库| | [点击前往](https://blog.csdn.net/liyuanjinglyj/article/details/104495013) |【框架】 |
 |Flutter入门进阶之旅（十七）Flutter dio网络请求| | [点击前往](https://www.jianshu.com/p/e010041f0ec0/) |【框架】 |
 |flutter 生命周期| | [点击前往](https://blog.csdn.net/u011272795/article/details/82695920) |【框架】 |
+|总结了30个例子之后，我悟到了Flutter的布局原理| | [点击前往](https://juejin.cn/post/6914155427651387399) |【框架】 |
 |Flutter自定义渐变色AppBar| | [点击前往](https://www.jianshu.com/p/09c280d76562) |【框架】 |
 | Flutter在Ios中实现极光推送 |  | [点击前往](http://bbs.itying.com/topic/5d70a5382a95ee138cf28d2e) |【框架】 |
 | Flutter国际化的三种方式-->intl |  | [点击前往](https://www.jianshu.com/p/6ca24dd50c57) |【框架】 |
 | Flutter - International 国际化，Localization 本地化， 使用Intl |  | [点击前往](http://ddrv.cn/a/154389) |【框架】 |
 | Flutter底部tab切换保持页面状态的几种方法 |  | [点击前往](https://cloud.tencent.com/developer/article/1507094) |【框架】 |
+|Flutter状态管理终极方案GetX第二篇——状态管理|  |[点击前往](https://juejin.cn/post/6907622450151096334)|【框架】|
 | -------------🔥控件🔥-------------| ------------- | - | --- |
 |Flutter学习笔记1-Widgets划分|| [点击前往](https://www.jianshu.com/p/febadddaf306) |【控件】 |
 |Flutter之MaterialApp使用详解|| [点击前往](https://cloud.tencent.com/developer/article/1337184) |【控件】 |
@@ -392,6 +395,8 @@
 |Flutter 一些常用库|  | [点击前往](https://www.cnblogs.com/yangyxd/p/9232308.html) |
 |Flutter常用插件|  | [点击前往](https://www.jianshu.com/p/028b9d4c65e3) |
 |2019 Joyy Flutter 总结|  | [点击前往](https://juejin.im/post/5e2557a6e51d4557e41c8036) |
+|Flutter 必备开源项目推荐|  | [点击前往](https://juejin.cn/post/6897190794512465928) |
+|---------------------|---------------------  | -|
 | hive（hive_generator） | 数据存储 | [点击前往](https://pub.dev/packages/hive) |
 | json_annotation（json_serializable） | 数据解析 | [点击前往](https://pub.dev/packages/json_annotation) |
 | dio | 网络库 | [点击前往](https://pub.dev/packages/dio) |
@@ -531,6 +536,8 @@
 | flutter_svg |  支持SVG 解析和渲染的库。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_svg) |
 | flutter_image_cropper |  图片裁切库，支持旋转，缩放，以及按照比例裁切。 | [点击前往](https://pub.flutter-io.cn/packages/flutter_image_cropper) |
 | multi_image_picker |  显示多图像选择器。 | [点击前往](https://pub.flutter-io.cn/packages/multi_image_picker) |
+| multi_image_picker |  显示多图像选择器。 | [点击前往](https://pub.flutter-io.cn/packages/multi_image_picker) |
+| DoKit |  是一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。DoKit始终站在用户的角度，为用户提供最便利的产研工具。 | [点击前往](https://juejin.cn/post/6914111076099915784) |
 <br>
 <br>
 <br>
